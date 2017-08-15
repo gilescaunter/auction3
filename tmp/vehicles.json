@@ -1,0 +1,4264 @@
+{
+    "result": [
+        {
+            "id": "592533d7610aa346018b4571",
+            "additionalInformation": [
+                {
+                    "item": "Item1",
+                    "value": "value1"
+                },
+                {
+                    "item": "Item2",
+                    "value": "Value2"
+                },
+                {
+                    "item": "Item3",
+                    "value": "Value3"
+                }
+            ],
+            "cherishedPlate": "Unknown",
+            "commercialInformation": {
+                "bookValue": 10.4,
+                "currency": "GBP",
+                "ocn": 14308,
+                "depreciationRate": 10.4,
+                "siv": 10.4,
+                "residualValueNet": 10.4,
+                "residualValueGross": 10.4,
+                "reserve": 10.4,
+                "totalCostOfOptions": 10.4,
+                "totalCostOfDamage": 10.4,
+                "damageRepaired": "No",
+                "damageRepairedDate": "1999-05-31",
+                "totalCostOfRepair": 10.4,
+                "customerDamageCharge": 10.4,
+                "originalLuxuryTax": 10.4,
+                "namaGrade": "1",
+                "intendedLotNumber": "635"
+            },
+            "comments": [
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number",
+                    "commentText": "This is a fake comment"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number2",
+                    "commentText": "Hello this is a automatic imported vehicle"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Fix",
+                    "commentAuthor": "Bruno",
+                    "commentText": "Fake comment"
+                }
+            ],
+            "contract": {
+                "actualReturnDate": "1999-05-31",
+                "actualReturnOdometerReading": 0,
+                "actualReturnOdometerReadingUnit": "Miles",
+                "agreementNumber": "agree",
+                "contractType": "Fixed",
+                "contractTerm": 0,
+                "contractStartDateTime": "1999-05-31T19:20:00",
+                "contractEndDateTime": "1999-05-31T19:20:00",
+                "contractOdometry": 0,
+                "contractOdometryUnit": "Miles",
+                "contractExtension": "No",
+                "contractExtensionType": "534",
+                "contractExtensionTerm": 0,
+                "contractExtensionStartDateTime": "1999-05-31T19:20:00",
+                "contractExtensionEndDateTime": "1999-05-31T19:20:00",
+                "contractExtensionOdometry": 0,
+                "contractExtensionOdometryUnit": "Miles",
+                "damageWaiver": 10.4,
+                "damageWaiverUnit": "GBP",
+                "estimatedOdometryUnit": "Miles",
+                "estimatedReturnDate": "1999-05-31",
+                "estimatedOdometry": 0,
+                "excessOdometryChargePerUnit": 10.4,
+                "excessOdometry": 0,
+                "excessOdometryChargeTotal": 10.4,
+                "excessOdometryUnit": "Miles",
+                "returnCategory": "542",
+                "vip": "Yes"
+            },
+            "countryOfRegistration": "GB",
+            "customer": {
+                "addressLine1": "London",
+                "addressLine2": "Camdem Town",
+                "townCity": "Chelsea",
+                "code": "codec",
+                "contact": "Giles",
+                "country": "England",
+                "countyState": "United Kingdom",
+                "email": "bcaManagment@account.com",
+                "fax": "bcafax@sell.com",
+                "longitude": 10.4,
+                "latitude": 10.4,
+                "mobileNumber": "657123654",
+                "companyName": "BCA",
+                "phoneNumber": "624544234",
+                "postcode": "PostCode"
+            },
+            "dateOfManufacture": "2002-10-30",
+            "dateOfRegistration": "2001-10-30",
+            "daysInStock": 83,
+            "defleetDate": "2017-05-24",
+            "defleetOdometerReading": 14625,
+            "defleetOdometerUnit": "Miles",
+            "engineNumber": "2DA2-B7HE",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Exterior",
+                        "equipmentCode": "100",
+                        "equipmentDescription": "Tyre width",
+                        "equipmentAbbreviation": "EA1",
+                        "equipmentOEMName": "OEM_NameEquipment",
+                        "equipmentPrice": 192.21,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "Dealer"
+                    },
+                    {
+                        "category": "abin",
+                        "equipmentCode": "ab",
+                        "equipmentDescription": "Xenon headlamps",
+                        "equipmentAbbreviation": "xx",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 183.85,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "Dealer"
+                    },
+                    {
+                        "category": "AC",
+                        "equipmentCode": "eq",
+                        "equipmentDescription": "eq",
+                        "equipmentAbbreviation": "equipmentAbbreviationequi",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 10.4,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryStandardFit"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=0BQSERK-GB"
+            },
+            "imported": "No",
+            "infleetDate": "2017-05-24",
+            "insuranceGroup": "Generali",
+            "locations": {
+                "currentLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Michael",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                },
+                "intendedLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Jaine",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                }
+            },
+            "logBookPresent": "Unknown",
+            "MOT": {
+                "lastMOTDate": "1999-05-31",
+                "nextMOTDate": "1999-05-31"
+            },
+            "noOfKeys": 0,
+            "noOfOwners": 1,
+            "odometerReading": 15125,
+            "odometerReadingDate": "1999-05-31",
+            "odometerUnit": "Miles",
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "Volkswagen",
+                    "model": "Touareg II",
+                    "manufacturerModelCode": "manufacturerModelCodemanu",
+                    "manufacturerCode": "manufacturerCodemanufacturerCodemanufacturerCodema",
+                    "modelMarket": "modelMarketmodelMarketmod",
+                    "derivative": "derivativederivativederivativederivativederivative",
+                    "description": "de",
+                    "vehicleType": "Light Commercial Vehicle",
+                    "bodyType": "Coupe",
+                    "engineSizeCC": 0,
+                    "transmission": "Manual",
+                    "noOfGears": 0,
+                    "fuelType": "Diesel/Electric",
+                    "fuelEfficiency": 10,
+                    "fuelEfficiencyUnit": "mpg",
+                    "modelYear": 1999,
+                    "modelMonth": 12,
+                    "noOfDoors": 4,
+                    "driveType": "Rear",
+                    "noOfSeatsIncDriver": 3,
+                    "driversSide": "Left",
+                    "weight": 1266,
+                    "weightUnit": "Kilograms",
+                    "noOfBerths": 0,
+                    "cabType": "cabTypecabTypecabTypecabT",
+                    "payload": 10.4,
+                    "payloadUnit": "Kilograms",
+                    "colourCode": "colourCodecolourCodecolou",
+                    "colourDescription": "colourDescriptioncolourDe",
+                    "metallic": "Yes",
+                    "paintType": "paintTypepaintTypepaintTy",
+                    "trimCode": "trimCodetrimCodetrimCodet",
+                    "secondaryTrimCode": "secondaryTrimCodesecondar",
+                    "trimCodeDescription": "trimCodeDescriptiontrimCodeDescriptiontrimCodeDesc",
+                    "secondaryTrimCodeDescription": "secondaryTrimCodeDescriptionsecondaryTrimCodeDescr",
+                    "trimDescription": "trimDescriptiontrimDescri",
+                    "genericColour": "Black",
+                    "co2": 0,
+                    "nox": 0,
+                    "euroEmissionsCategory": "euroEmissionsCategoryeuro",
+                    "capCode": "capCodecapCodecapCodecapC",
+                    "glassCode": "gl",
+                    "powerMeasurement": [
+                        {
+                            "power": 0,
+                            "powerUnit": "BHP"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "BHP"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "PS"
+                        }
+                    ],
+                    "wheelBase": 0,
+                    "marketSegment": "Upper medium"
+                }
+            },
+            "originatingSystemID": "GB_63L4E1H4O5",
+            "ownershipRegistrationCode": "Owner Ship Reg. Code",
+            "previousRegNoChangeDate": "2016-01-01",
+            "previousRegNo": "0BQSERK",
+            "pricing": {
+                "providerPrice": 81656.66,
+                "providerPriceUpdated": "2017-05-24T08:19:14",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "1",
+                    "guideName": "guideName_0"
+                },
+                "secondary": {
+                    "guideCode": "2",
+                    "guideName": "guideName_0"
+                },
+                "tertiary": {
+                    "guideCode": "3",
+                    "guideName": "guideName_0"
+                }
+            },
+            "productionYear": 2002,
+            "productionMonth": 10,
+            "purchaseType": "purchaseType_0",
+            "purchaseOrderNumber": "purchaseOrderNumber_0",
+            "regNo": "0BQSERK",
+            "rental": {
+                "rentalAgreementID": "rentalAgreementId_0",
+                "lastRentalAgreementID": "lastRentalAgreementId_0",
+                "currentReservationID": "currentReservationID_0",
+                "rentalHoldCode": "rentalHoldCode_0",
+                "rentalHoldingCost": 10.4
+            },
+            "roadWorthy": "Unknown",
+            "runner": "Unknown",
+            "serialNumber": "8715",
+            "serviceHistory": {
+                "manufacturerServicePlan": "No",
+                "manufacturerServicePlanExpiryDate": "1999-05-31",
+                "nextServicedate": "1999-05-31",
+                "nextServiceOdometerValue": 0,
+                "nextServiceOdometerUnit": "Miles",
+                "serviceHistoryPresent": "Yes",
+                "totalNumberOfServices": 0,
+                "totalNumberOfMainDealerServices": 0,
+                "service": [
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "No",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Yes",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Unknown",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    }
+                ]
+            },
+            "thirdPartyID": "63L4E1H4O5",
+            "thirdPartyVehicleStatus": "63L4E1H4O5",
+            "usage": "Rental Car",
+            "vatStatus": "Iberian",
+            "vehicleSpecification": {
+                "manufacturer": "Volkswagen",
+                "model": "Touareg II",
+                "manufacturerModelCode": "SLJG",
+                "manufacturerCode": "VKW",
+                "modelMarket": "Power",
+                "derivative": "SEL",
+                "description": "Volkswagen SEL",
+                "vehicleType": "Light Commercial Vehicle",
+                "bodyType": "Coupe",
+                "engineSizeCC": 0,
+                "transmission": "Manual",
+                "noOfGears": 0,
+                "fuelType": "Diesel/Electric",
+                "fuelEfficiency": 10,
+                "fuelEfficiencyUnit": "Array",
+                "modelYear": 1999,
+                "modelMonth": 12,
+                "noOfDoors": 4,
+                "driveType": "Rear",
+                "noOfSeatsIncDriver": 3,
+                "driversSide": "Left",
+                "weight": 1266,
+                "weightUnit": "Pounds",
+                "noOfBerths": 0,
+                "cabType": "Bicouple",
+                "payload": 964,
+                "payloadUnit": "Pounds",
+                "colourCode": "864",
+                "colourDescription": "875",
+                "metallic": "Unknown",
+                "paintType": "Chrome",
+                "trimCode": "542",
+                "secondaryTrimCode": "JMeter",
+                "trimCodeDescription": "Azure",
+                "secondaryTrimCodeDescription": "Protractor",
+                "trimDescription": "Bims",
+                "genericColour": "Black",
+                "co2": 0,
+                "nox": 0,
+                "euroEmissionsCategory": "Eco",
+                "capCode": "421",
+                "glassCode": "gl",
+                "powerMeasurement": [
+                    {
+                        "power": 80,
+                        "powerUnit": "BHP"
+                    },
+                    {
+                        "power": 90,
+                        "powerUnit": "BHP"
+                    },
+                    {
+                        "power": 110,
+                        "powerUnit": "PS"
+                    }
+                ],
+                "wheelBase": 19,
+                "marketSegment": "Upper medium"
+            },
+            "vendorDescription": "API inserted vehicle",
+            "vehicleSource": "vehicleSource_0",
+            "vin": "6RWWP2MFVGK12VVI8",
+            "warranty": {
+                "odometerWarranted": "Yes",
+                "manufacturerWarrantyApplicable": "No",
+                "manufacturerWarrantyExpiryOdometer": 0,
+                "manufacturerWarrantyExpiryOdometerUnit": "Miles",
+                "manufacturerWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryOdometer": 0,
+                "manufacturerExtendedWarrantyExpiryOdometerUnit": "Miles"
+            }
+        },
+        {
+            "id": "59258aad610aa37e018b45ae",
+            "commercialInformation": {
+                "siv": 13180.69
+            },
+            "dateOfRegistration": "2014-07-02",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Comfort & Convenience",
+                        "equipmentCode": "PRKA"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=AS84ZRC-GB"
+            },
+            "locations": {
+                "currentLocation": {
+                    "addressLine1": "CORBY"
+                }
+            },
+            "logBookPresent": "Yes",
+            "odometerReading": 55,
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "equipmentCode": "S0E",
+                            "equipmentDescription": "Special vehicle"
+                        },
+                        {
+                            "equipmentCode": "WDB",
+                            "equipmentDescription": "Park assist"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "V",
+                    "model": "New Golf SV",
+                    "derivative": "New Golf SV GT 1.4 TSI 150 PS 6-speed Manual",
+                    "engineSizeCC": 1968,
+                    "noOfGears": 6,
+                    "fuelType": "P",
+                    "modelYear": 2015,
+                    "noOfDoors": 5,
+                    "colourDescription": "Tungsten Silver Metallic (K5K5 )",
+                    "trimCode": "TW",
+                    "trimDescription": "Titan Black",
+                    "co2": 0
+                }
+            },
+            "originatingSystemID": "1281473",
+            "pricing": {
+                "providerPrice": 52298.35,
+                "providerPriceUpdated": "2017-05-24T14:29:20",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "64471",
+                    "guideName": "CAP ID"
+                }
+            },
+            "regNo": "AS84ZRC",
+            "thirdPartyID": "WVWZZZAUZFW500784",
+            "vatStatus": "Qualifying",
+            "vehicleSpecification": {
+                "manufacturer": "VOLKSWAGEN",
+                "model": "GOLF SV",
+                "derivative": "TSI 150 GT",
+                "vehicleType": "Passenger Car",
+                "bodyType": "MPV",
+                "engineSizeCC": 1400,
+                "transmission": "Manual",
+                "fuelType": "Petrol",
+                "modelYear": 2015,
+                "noOfDoors": 5,
+                "colourDescription": "TUNGSTEN SILVER",
+                "trimCode": "TD",
+                "capCode": "VWGS141GT5HPTM  0"
+            },
+            "vendorDescription": "FD/Demonstrator",
+            "vehicleSource": "UCMS_BCA_VW_00000717 (1).xml",
+            "vin": "WVWZZZAUZFW500784"
+        },
+        {
+            "id": "592593c5610aa384018b45f9",
+            "additionalInformation": [
+                {
+                    "item": "Item1",
+                    "value": "value1"
+                },
+                {
+                    "item": "Item2",
+                    "value": "Value2"
+                },
+                {
+                    "item": "Item3",
+                    "value": "Value3"
+                }
+            ],
+            "cherishedPlate": "Yes",
+            "commercialInformation": {
+                "bookValue": 10.4,
+                "currency": "GBP",
+                "ocn": 20547,
+                "depreciationRate": 10.4,
+                "siv": 10.4,
+                "residualValueNet": 10.4,
+                "residualValueGross": 10.4,
+                "reserve": 10.4,
+                "totalCostOfOptions": 10.4,
+                "totalCostOfDamage": 10.4,
+                "damageRepaired": "No",
+                "damageRepairedDate": "1999-05-31",
+                "totalCostOfRepair": 10.4,
+                "customerDamageCharge": 10.4,
+                "originalLuxuryTax": 10.4,
+                "namaGrade": "1",
+                "intendedLotNumber": "635"
+            },
+            "comments": [
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number",
+                    "commentText": "This is a fake comment"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number2",
+                    "commentText": "Hello this is a automatic imported vehicle"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Fix",
+                    "commentAuthor": "Bruno",
+                    "commentText": "Fake comment"
+                }
+            ],
+            "contract": {
+                "actualReturnDate": "1999-05-31",
+                "actualReturnOdometerReading": 0,
+                "actualReturnOdometerReadingUnit": "Miles",
+                "agreementNumber": "agree",
+                "collectionRequired": "No",
+                "contractType": "Fixed",
+                "contractTerm": 0,
+                "contractStartDateTime": "1999-05-31T19:20:00",
+                "contractEndDateTime": "1999-05-31T19:20:00",
+                "contractOdometry": 0,
+                "contractOdometryUnit": "Miles",
+                "contractExtension": "No",
+                "contractExtensionType": "534",
+                "contractExtensionTerm": 0,
+                "contractExtensionStartDateTime": "1999-05-31T19:20:00",
+                "contractExtensionEndDateTime": "1999-05-31T19:20:00",
+                "contractExtensionOdometry": 0,
+                "contractExtensionOdometryUnit": "Miles",
+                "damageWaiver": 10.4,
+                "damageWaiverUnit": "GBP",
+                "estimatedOdometryUnit": "Miles",
+                "estimatedReturnDate": "1999-05-31",
+                "estimatedOdometry": 0,
+                "excessOdometryChargePerUnit": 10.4,
+                "excessOdometry": 0,
+                "excessOdometryChargeTotal": 10.4,
+                "excessOdometryUnit": "Miles",
+                "returnCategory": "542",
+                "vip": "Yes"
+            },
+            "countryOfRegistration": "GB",
+            "customer": {
+                "addressLine1": "London",
+                "addressLine2": "Camdem Town",
+                "townCity": "Chelsea",
+                "code": "codec",
+                "contact": "Giles",
+                "country": "England",
+                "countyState": "United Kingdom",
+                "email": "bcaManagment@account.com",
+                "fax": "bcafax@sell.com",
+                "longitude": 10.4,
+                "latitude": 10.4,
+                "mobileNumber": "657123654",
+                "companyName": "BCA",
+                "phoneNumber": "624544234",
+                "postcode": "PostCode"
+            },
+            "dateOfManufacture": "2004-11-05",
+            "dateOfRegistration": "2003-11-05",
+            "daysInStock": 83,
+            "defleetDate": "2017-05-24",
+            "defleetOdometerReading": 786,
+            "defleetOdometerUnit": "Kilometres",
+            "engineNumber": "JDWU-PZVH",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Interior",
+                        "equipmentCode": "100",
+                        "equipmentDescription": "Bluetooth telephone interface",
+                        "equipmentAbbreviation": "EA1",
+                        "equipmentOEMName": "OEM_NameEquipment",
+                        "equipmentPrice": 153.05,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryNonStandardFit"
+                    },
+                    {
+                        "category": "abin",
+                        "equipmentCode": "ab",
+                        "equipmentDescription": "Heated seats",
+                        "equipmentAbbreviation": "xx",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 136.08,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryNonStandardFit"
+                    },
+                    {
+                        "category": "AC",
+                        "equipmentCode": "eq",
+                        "equipmentDescription": "eq",
+                        "equipmentAbbreviation": "equipmentAbbreviationequi",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 10.4,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryStandardFit"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=1C9UB3F-GB"
+            },
+            "imported": "No",
+            "infleetDate": "2017-05-24",
+            "insuranceGroup": "Allianz",
+            "locations": {
+                "currentLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Michael",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                },
+                "intendedLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Jaine",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                }
+            },
+            "logBookPresent": "Yes",
+            "MOT": {
+                "lastMOTDate": "1999-05-31",
+                "nextMOTDate": "1999-05-31"
+            },
+            "noOfKeys": 0,
+            "noOfOwners": 1,
+            "odometerReading": 1286,
+            "odometerReadingDate": "1999-05-31",
+            "odometerUnit": "Kilometres",
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "Volkswagen",
+                    "model": "Jetta",
+                    "manufacturerModelCode": "manufacturerModelCodemanu",
+                    "manufacturerCode": "manufacturerCodemanufacturerCodemanufacturerCodema",
+                    "modelMarket": "modelMarketmodelMarketmod",
+                    "derivative": "derivativederivativederivativederivativederivative",
+                    "description": "de",
+                    "vehicleType": "Passenger Car",
+                    "bodyType": "Coupe",
+                    "engineSizeCC": 0,
+                    "transmission": "Manual",
+                    "noOfGears": 0,
+                    "fuelType": "Petrol",
+                    "fuelEfficiency": 10,
+                    "fuelEfficiencyUnit": "mpg",
+                    "modelYear": 1999,
+                    "modelMonth": 12,
+                    "noOfDoors": 2,
+                    "driveType": "All-Wheel-Drive",
+                    "noOfSeatsIncDriver": 2,
+                    "driversSide": "Left",
+                    "weight": 1257,
+                    "weightUnit": "Kilograms",
+                    "noOfBerths": 0,
+                    "cabType": "cabTypecabTypecabTypecabT",
+                    "payload": 10.4,
+                    "payloadUnit": "Kilograms",
+                    "colourCode": "colourCodecolourCodecolou",
+                    "colourDescription": "colourDescriptioncolourDe",
+                    "metallic": "Yes",
+                    "paintType": "paintTypepaintTypepaintTy",
+                    "trimCode": "trimCodetrimCodetrimCodet",
+                    "secondaryTrimCode": "secondaryTrimCodesecondar",
+                    "trimCodeDescription": "trimCodeDescriptiontrimCodeDescriptiontrimCodeDesc",
+                    "secondaryTrimCodeDescription": "secondaryTrimCodeDescriptionsecondaryTrimCodeDescr",
+                    "trimDescription": "trimDescriptiontrimDescri",
+                    "genericColour": "Yellow",
+                    "co2": 0,
+                    "nox": 0,
+                    "euroEmissionsCategory": "euroEmissionsCategoryeuro",
+                    "capCode": "capCodecapCodecapCodecapC",
+                    "glassCode": "gl",
+                    "powerMeasurement": [
+                        {
+                            "power": 0,
+                            "powerUnit": "KWH"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "KWH"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "KWH"
+                        }
+                    ],
+                    "wheelBase": 0,
+                    "marketSegment": "Upper medium"
+                }
+            },
+            "originatingSystemID": "GB_IIWSH2JV10",
+            "ownershipRegistrationCode": "Owner Ship Reg. Code",
+            "previousRegNoChangeDate": "2016-01-01",
+            "previousRegNo": "1C9UB3F",
+            "pricing": {
+                "providerPrice": 68856.42,
+                "providerPriceUpdated": "2017-05-24T15:08:32",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "1",
+                    "guideName": "guideName_0"
+                },
+                "secondary": {
+                    "guideCode": "2",
+                    "guideName": "guideName_0"
+                },
+                "tertiary": {
+                    "guideCode": "3",
+                    "guideName": "guideName_0"
+                }
+            },
+            "productionYear": 2004,
+            "productionMonth": 11,
+            "purchaseType": "purchaseType_0",
+            "purchaseOrderNumber": "purchaseOrderNumber_0",
+            "regNo": "1C9UB3F",
+            "rental": {
+                "rentalAgreementID": "rentalAgreementId_0",
+                "lastRentalAgreementID": "lastRentalAgreementId_0",
+                "currentReservationID": "currentReservationID_0",
+                "rentalHoldCode": "rentalHoldCode_0",
+                "rentalHoldingCost": 10.4
+            },
+            "roadWorthy": "Yes",
+            "runner": "Yes",
+            "serialNumber": "0199",
+            "serviceHistory": {
+                "manufacturerServicePlan": "No",
+                "manufacturerServicePlanExpiryDate": "1999-05-31",
+                "nextServicedate": "1999-05-31",
+                "nextServiceOdometerValue": 0,
+                "nextServiceOdometerUnit": "Miles",
+                "serviceHistoryPresent": "Yes",
+                "totalNumberOfServices": 0,
+                "totalNumberOfMainDealerServices": 0,
+                "service": [
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "No",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Yes",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Unknown",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    }
+                ]
+            },
+            "thirdPartyID": "IIWSH2JV10",
+            "thirdPartyVehicleStatus": "IIWSH2JV10",
+            "usage": "Normal Use",
+            "vatStatus": "Marginal",
+            "vehicleSpecification": {
+                "manufacturer": "Volkswagen",
+                "model": "Jetta",
+                "manufacturerModelCode": "4H8P",
+                "manufacturerCode": "VKW",
+                "modelMarket": "Power",
+                "derivative": "RSE",
+                "description": "Volkswagen RSE",
+                "vehicleType": "Passenger Car",
+                "bodyType": "Coupe",
+                "engineSizeCC": 0,
+                "transmission": "Manual",
+                "noOfGears": 0,
+                "fuelType": "Petrol",
+                "fuelEfficiency": 10,
+                "fuelEfficiencyUnit": "Array",
+                "modelYear": 1999,
+                "modelMonth": 12,
+                "noOfDoors": 2,
+                "driveType": "All-Wheel-Drive",
+                "noOfSeatsIncDriver": 2,
+                "driversSide": "Left",
+                "weight": 1257,
+                "weightUnit": "Tonne",
+                "noOfBerths": 0,
+                "cabType": "Bicouple",
+                "payload": 1009,
+                "payloadUnit": "Tonne",
+                "colourCode": "864",
+                "colourDescription": "875",
+                "metallic": "No",
+                "paintType": "Chrome",
+                "trimCode": "542",
+                "secondaryTrimCode": "JMeter",
+                "trimCodeDescription": "Azure",
+                "secondaryTrimCodeDescription": "Protractor",
+                "trimDescription": "Bims",
+                "genericColour": "Yellow",
+                "co2": 0,
+                "nox": 0,
+                "euroEmissionsCategory": "Eco",
+                "capCode": "421",
+                "glassCode": "gl",
+                "powerMeasurement": [
+                    {
+                        "power": 80,
+                        "powerUnit": "KWH"
+                    },
+                    {
+                        "power": 90,
+                        "powerUnit": "KWH"
+                    },
+                    {
+                        "power": 110,
+                        "powerUnit": "KWH"
+                    }
+                ],
+                "wheelBase": 19,
+                "marketSegment": "Upper medium"
+            },
+            "vendorDescription": "API inserted vehicle",
+            "vehicleSource": "vehicleSource_0",
+            "vin": "LG58ZTBWYDGIYYW3L",
+            "warranty": {
+                "odometerWarranted": "Yes",
+                "manufacturerWarrantyApplicable": "No",
+                "manufacturerWarrantyExpiryOdometer": 0,
+                "manufacturerWarrantyExpiryOdometerUnit": "Miles",
+                "manufacturerWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryOdometer": 0,
+                "manufacturerExtendedWarrantyExpiryOdometerUnit": "Miles"
+            }
+        },
+        {
+            "id": "5926bd9f610aa321028b4571",
+            "commercialInformation": {
+                "siv": 16915.88
+            },
+            "dateOfRegistration": "2014-11-07",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Exterior",
+                        "equipmentCode": "SPPA",
+                        "equipmentDescription": "Special Paint - White"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=AS99LIX-GB"
+            },
+            "locations": {
+                "currentLocation": {
+                    "addressLine1": "CORBY"
+                }
+            },
+            "logBookPresent": "No",
+            "odometerReading": 7695,
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "equipmentCode": "S2J",
+                            "equipmentDescription": "Special code white paint"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "V",
+                    "model": "Scirocco",
+                    "derivative": "XX Scirocco GT 2.0 TDI 177PS 6-speed Manual 3 Door",
+                    "engineSizeCC": 1968,
+                    "noOfGears": 6,
+                    "fuelType": "D",
+                    "modelYear": 2014,
+                    "noOfDoors": 2,
+                    "colourDescription": "Candy White (B4B4 )",
+                    "trimCode": "QX",
+                    "trimDescription": "Black leather",
+                    "co2": 0
+                }
+            },
+            "originatingSystemID": "1276654",
+            "pricing": {
+                "providerPrice": 37056.87,
+                "providerPriceUpdated": "2017-05-25T12:18:58",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "58693",
+                    "guideName": "CAP ID"
+                }
+            },
+            "regNo": "AS99LIX",
+            "thirdPartyID": "WVWASD23ZEV019363",
+            "vatStatus": "Marginal",
+            "vehicleSpecification": {
+                "manufacturer": "VOLKSWAGEN",
+                "model": "SCIROCCO",
+                "derivative": "TDI 177 GT",
+                "vehicleType": "Passenger Car",
+                "bodyType": "Coupe",
+                "engineSizeCC": 2000,
+                "transmission": "Manual",
+                "fuelType": "Diesel",
+                "modelYear": 2014,
+                "noOfDoors": 3,
+                "colourDescription": "CANDY WHITE",
+                "trimCode": "TD",
+                "capCode": "VWSC20G173CDTM  1"
+            },
+            "vendorDescription": "PL/ECO Plan",
+            "vehicleSource": "UCMS_BCA_VW_00000717 (1).xml",
+            "vin": "WVWASD23ZEV019363"
+        },
+        {
+            "id": "59283c63610aa3c6028b457a",
+            "commercialInformation": {
+                "siv": 16915.88
+            },
+            "dateOfRegistration": "2014-11-07",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Exterior",
+                        "equipmentCode": "SPPA",
+                        "equipmentDescription": "Special Paint - White"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=AS88WIX-GB"
+            },
+            "locations": {
+                "currentLocation": {
+                    "addressLine1": "CORBY"
+                }
+            },
+            "logBookPresent": "No",
+            "odometerReading": 7695,
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "equipmentCode": "S2J",
+                            "equipmentDescription": "Special code white paint"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "V",
+                    "model": "Scirocco",
+                    "derivative": "XX Scirocco GT 2.0 TDI 177PS 6-speed Manual 3 Door",
+                    "engineSizeCC": 1968,
+                    "noOfGears": 6,
+                    "fuelType": "D",
+                    "modelYear": 2014,
+                    "noOfDoors": 2,
+                    "colourDescription": "Candy White (B4B4 )",
+                    "trimCode": "QX",
+                    "trimDescription": "Black leather",
+                    "co2": 0
+                }
+            },
+            "originatingSystemID": "1276654",
+            "pricing": {
+                "providerPrice": 19092.37,
+                "providerPriceUpdated": "2017-05-26T15:32:06",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "58693",
+                    "guideName": "CAP ID"
+                }
+            },
+            "regNo": "AS88WIX",
+            "thirdPartyID": "WVAAAD23ZEV019363",
+            "vatStatus": "Marginal",
+            "vehicleSpecification": {
+                "manufacturer": "VOLKSWAGEN",
+                "model": "SCIROCCO",
+                "derivative": "TDI 177 GT",
+                "vehicleType": "Passenger Car",
+                "bodyType": "Coupe",
+                "engineSizeCC": 2000,
+                "transmission": "Manual",
+                "fuelType": "Diesel",
+                "modelYear": 2014,
+                "noOfDoors": 3,
+                "colourDescription": "CANDY WHITE",
+                "trimCode": "TD",
+                "capCode": "VWSC20G173CDTM  1"
+            },
+            "vendorDescription": "PL/ECO Plan",
+            "vehicleSource": "UCMS_BCA_VW_00000717 (1).xml",
+            "vin": "WVAAAD23ZEV019363"
+        },
+        {
+            "id": "5922b8432fe01e7e018b46fc",
+            "additionalInformation": [
+                {
+                    "item": "Item1",
+                    "value": "value1"
+                },
+                {
+                    "item": "Item2",
+                    "value": "Value2"
+                },
+                {
+                    "item": "Item3",
+                    "value": "Value3"
+                }
+            ],
+            "cherishedPlate": "Yes",
+            "commercialInformation": {
+                "bookValue": 10.4,
+                "currency": "GBP",
+                "ocn": 15435,
+                "depreciationRate": 10.4,
+                "siv": 10.4,
+                "residualValueNet": 10.4,
+                "residualValueGross": 10.4,
+                "reserve": 10.4,
+                "totalCostOfOptions": 10.4,
+                "totalCostOfDamage": 10.4,
+                "damageRepaired": "No",
+                "damageRepairedDate": "1999-05-31",
+                "totalCostOfRepair": 10.4,
+                "customerDamageCharge": 10.4,
+                "originalLuxuryTax": 10.4,
+                "namaGrade": "1",
+                "intendedLotNumber": "635"
+            },
+            "comments": [
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number",
+                    "commentText": "This is a fake comment"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number2",
+                    "commentText": "Hello this is a automatic imported vehicle"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Fix",
+                    "commentAuthor": "Bruno",
+                    "commentText": "Fake comment"
+                }
+            ],
+            "contract": {
+                "actualReturnDate": "1999-05-31",
+                "actualReturnOdometerReading": 0,
+                "actualReturnOdometerReadingUnit": "Miles",
+                "agreementNumber": "agree",
+                "collectionRequired": "Yes",
+                "contractType": "Fixed",
+                "contractTerm": 0,
+                "contractStartDateTime": "1999-05-31T19:20:00",
+                "contractEndDateTime": "1999-05-31T19:20:00",
+                "contractOdometry": 0,
+                "contractOdometryUnit": "Miles",
+                "contractExtension": "No",
+                "contractExtensionType": "534",
+                "contractExtensionTerm": 0,
+                "contractExtensionStartDateTime": "1999-05-31T19:20:00",
+                "contractExtensionEndDateTime": "1999-05-31T19:20:00",
+                "contractExtensionOdometry": 0,
+                "contractExtensionOdometryUnit": "Miles",
+                "damageWaiver": 10.4,
+                "damageWaiverUnit": "GBP",
+                "estimatedOdometryUnit": "Miles",
+                "estimatedReturnDate": "1999-05-31",
+                "estimatedOdometry": 0,
+                "excessOdometryChargePerUnit": 10.4,
+                "excessOdometry": 0,
+                "excessOdometryChargeTotal": 10.4,
+                "excessOdometryUnit": "Miles",
+                "returnCategory": "542",
+                "vip": "Yes"
+            },
+            "countryOfRegistration": "DE",
+            "customer": {
+                "addressLine1": "London",
+                "addressLine2": "Camdem Town",
+                "townCity": "Chelsea",
+                "code": "codec",
+                "contact": "Giles",
+                "country": "England",
+                "countyState": "United Kingdom",
+                "email": "bcaManagment@account.com",
+                "fax": "bcafax@sell.com",
+                "longitude": 10.4,
+                "latitude": 10.4,
+                "mobileNumber": "657123654",
+                "companyName": "BCA",
+                "phoneNumber": "624544234",
+                "postcode": "PostCode"
+            },
+            "dateOfManufacture": "2001-06-22",
+            "dateOfRegistration": "2016-05-31",
+            "daysInStock": 6651,
+            "defleetDate": "1999-05-31",
+            "defleetOdometerReading": 24075,
+            "defleetOdometerUnit": "Kilometres",
+            "engineNumber": "UO2P-4IX2",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Engine & Tecnology",
+                        "equipmentCode": "100",
+                        "equipmentDescription": "Rain sensor",
+                        "equipmentAbbreviation": "EA1",
+                        "equipmentOEMName": "OEM_NameEquipment",
+                        "equipmentPrice": 171.87,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "Dealer"
+                    },
+                    {
+                        "category": "abin",
+                        "equipmentCode": "ab",
+                        "equipmentDescription": "Cruise control",
+                        "equipmentAbbreviation": "xx",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 179.07,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryStandardFit"
+                    },
+                    {
+                        "category": "AC",
+                        "equipmentCode": "eq",
+                        "equipmentDescription": "eq",
+                        "equipmentAbbreviation": "equipmentAbbreviationequi",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 10.4,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryStandardFit"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=JC0SXDQ-GB"
+            },
+            "imported": "Unknown",
+            "infleetDate": "1999-05-31",
+            "insuranceGroup": "Generali",
+            "locations": {
+                "currentLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Michael",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                },
+                "intendedLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Jaine",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                }
+            },
+            "logBookPresent": "Yes",
+            "MOT": {
+                "lastMOTDate": "1999-05-31",
+                "nextMOTDate": "1999-05-31"
+            },
+            "noOfKeys": 0,
+            "noOfOwners": 2,
+            "odometerReading": 24575,
+            "odometerReadingDate": "1999-05-31",
+            "odometerUnit": "Kilometres",
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "Volkswagen",
+                    "model": "Amarok",
+                    "manufacturerModelCode": "manufacturerModelCodemanu",
+                    "manufacturerCode": "manufacturerCodemanufacturerCodemanufacturerCodema",
+                    "modelMarket": "modelMarketmodelMarketmod",
+                    "derivative": "derivativederivativederivativederivativederivative",
+                    "description": "de",
+                    "vehicleType": "Plant",
+                    "bodyType": "Utility",
+                    "engineSizeCC": 0,
+                    "transmission": "Semi Automatic",
+                    "noOfGears": 0,
+                    "fuelType": "Diesel",
+                    "fuelEfficiency": 10,
+                    "fuelEfficiencyUnit": "mpg",
+                    "modelYear": 1999,
+                    "modelMonth": 12,
+                    "noOfDoors": 2,
+                    "driveType": "Front",
+                    "noOfSeatsIncDriver": 3,
+                    "driversSide": "Left",
+                    "weight": 1173,
+                    "weightUnit": "Kilograms",
+                    "noOfBerths": 0,
+                    "cabType": "cabTypecabTypecabTypecabT",
+                    "payload": 10.4,
+                    "payloadUnit": "Kilograms",
+                    "colourCode": "colourCodecolourCodecolou",
+                    "colourDescription": "colourDescriptioncolourDe",
+                    "metallic": "Yes",
+                    "paintType": "paintTypepaintTypepaintTy",
+                    "trimCode": "trimCodetrimCodetrimCodet",
+                    "secondaryTrimCode": "secondaryTrimCodesecondar",
+                    "trimCodeDescription": "trimCodeDescriptiontrimCodeDescriptiontrimCodeDesc",
+                    "secondaryTrimCodeDescription": "secondaryTrimCodeDescriptionsecondaryTrimCodeDescr",
+                    "trimDescription": "trimDescriptiontrimDescri",
+                    "genericColour": "Red",
+                    "co2": 0,
+                    "nox": 0,
+                    "euroEmissionsCategory": "euroEmissionsCategoryeuro",
+                    "capCode": "capCodecapCodecapCodecapC",
+                    "glassCode": "gl",
+                    "powerMeasurement": [
+                        {
+                            "power": 0,
+                            "powerUnit": "BHP"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "KW"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "KW"
+                        }
+                    ],
+                    "wheelBase": 0,
+                    "marketSegment": "Upper medium"
+                }
+            },
+            "originatingSystemID": "GB_0M8B99VM22",
+            "ownershipRegistrationCode": "Owner Ship Reg. Code",
+            "previousRegNoChangeDate": "2016-01-01",
+            "previousRegNo": "JC0SXDQ",
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "1",
+                    "guideName": "guideName_0"
+                },
+                "secondary": {
+                    "guideCode": "2",
+                    "guideName": "guideName_0"
+                },
+                "tertiary": {
+                    "guideCode": "3",
+                    "guideName": "guideName_0"
+                }
+            },
+            "productionYear": 2001,
+            "productionMonth": 6,
+            "purchaseType": "purchaseType_0",
+            "purchaseOrderNumber": "purchaseOrderNumber_0",
+            "regNo": "JC0SXDQ",
+            "rental": {
+                "rentalAgreementID": "rentalAgreementId_0",
+                "lastRentalAgreementID": "lastRentalAgreementId_0",
+                "currentReservationID": "currentReservationID_0",
+                "rentalHoldCode": "rentalHoldCode_0",
+                "rentalHoldingCost": 10.4
+            },
+            "roadWorthy": "Yes",
+            "runner": "Yes",
+            "serialNumber": "6613",
+            "serviceHistory": {
+                "manufacturerServicePlan": "No",
+                "manufacturerServicePlanExpiryDate": "1999-05-31",
+                "nextServicedate": "1999-05-31",
+                "nextServiceOdometerValue": 0,
+                "nextServiceOdometerUnit": "Miles",
+                "serviceHistoryPresent": "Yes",
+                "totalNumberOfServices": 0,
+                "totalNumberOfMainDealerServices": 0,
+                "service": [
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "No",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Yes",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Unknown",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    }
+                ]
+            },
+            "thirdPartyID": "0M8B99VM22",
+            "thirdPartyVehicleStatus": "0M8B99VM22",
+            "usage": "Normal Use",
+            "vatStatus": "Iberian",
+            "vehicleSpecification": {
+                "manufacturer": "Volkswagen",
+                "model": "Amarok",
+                "manufacturerModelCode": "CL3B",
+                "manufacturerCode": "VKW",
+                "modelMarket": "Power",
+                "derivative": "GLX",
+                "description": "Volkswagen GLX",
+                "vehicleType": "Plant",
+                "bodyType": "Utility",
+                "engineSizeCC": 0,
+                "transmission": "Semi Automatic",
+                "noOfGears": 0,
+                "fuelType": "Diesel",
+                "fuelEfficiency": 10,
+                "fuelEfficiencyUnit": "Array",
+                "modelYear": 1999,
+                "modelMonth": 12,
+                "noOfDoors": 2,
+                "driveType": "Front",
+                "noOfSeatsIncDriver": 3,
+                "driversSide": "Left",
+                "weight": 1173,
+                "weightUnit": "Pounds",
+                "noOfBerths": 0,
+                "cabType": "Bicouple",
+                "payload": 641,
+                "payloadUnit": "Pounds",
+                "colourCode": "864",
+                "colourDescription": "875",
+                "metallic": "Unknown",
+                "paintType": "Chrome",
+                "trimCode": "542",
+                "secondaryTrimCode": "JMeter",
+                "trimCodeDescription": "Azure",
+                "secondaryTrimCodeDescription": "Protractor",
+                "trimDescription": "Bims",
+                "genericColour": "Red",
+                "co2": 0,
+                "nox": 0,
+                "euroEmissionsCategory": "Eco",
+                "capCode": "421",
+                "glassCode": "gl",
+                "powerMeasurement": [
+                    {
+                        "power": 80,
+                        "powerUnit": "BHP"
+                    },
+                    {
+                        "power": 90,
+                        "powerUnit": "KW"
+                    },
+                    {
+                        "power": 110,
+                        "powerUnit": "KW"
+                    }
+                ],
+                "wheelBase": 19,
+                "marketSegment": "Upper medium"
+            },
+            "vendorDescription": "API inserted vehicle",
+            "vehicleSource": "vehicleSource_0",
+            "vin": "LQIHS68QMTQAO8EPL",
+            "warranty": {
+                "odometerWarranted": "Yes",
+                "manufacturerWarrantyApplicable": "No",
+                "manufacturerWarrantyExpiryOdometer": 0,
+                "manufacturerWarrantyExpiryOdometerUnit": "Miles",
+                "manufacturerWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryOdometer": 0,
+                "manufacturerExtendedWarrantyExpiryOdometerUnit": "Miles"
+            }
+        },
+        {
+            "id": "5924699f610aa332018b4571",
+            "contract": {
+                "collectionRequired": "Yes"
+            },
+            "dateOfRegistration": "2017-05-23",
+            "daysInStock": 649,
+            "defleetDate": "2015-11-05",
+            "engineNumber": "082E-5KJV",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Exterior",
+                        "equipmentDescription": "Front fog lamps",
+                        "equipmentPrice": 166
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=7541U2X-GB"
+            },
+            "infleetDate": "2017-05-23",
+            "locations": {
+                "currentLocation": {
+                    "townCity": "Manchester",
+                    "code": "aaa"
+                }
+            },
+            "odometerReading": 365,
+            "odometerUnit": "Kilometres",
+            "originatingSystemID": "GB_4ETP0EG2AH",
+            "pricing": {
+                "providerPrice": 20080.63,
+                "providerPriceUpdated": "2017-05-23T17:56:26",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "1",
+                    "guideName": "guideName_1"
+                },
+                "secondary": {
+                    "guideCode": "2",
+                    "guideName": "guideName_2"
+                },
+                "tertiary": {
+                    "guideCode": "3",
+                    "guideName": "guideName_3"
+                }
+            },
+            "regNo": "7541U2X",
+            "serialNumber": "1873",
+            "thirdPartyID": "4ETP0EG2AH",
+            "thirdPartyVehicleStatus": "Available",
+            "usage": "Fleet Demonstrator",
+            "vatStatus": "Iberian",
+            "vehicleSpecification": {
+                "manufacturer": "Volkswagen",
+                "model": "California",
+                "manufacturerModelCode": "L477",
+                "manufacturerCode": "VKW",
+                "derivative": "GLX",
+                "description": "Auto Generated vehicle",
+                "vehicleType": "Passenger Car",
+                "transmission": "Semi Automatic",
+                "noOfGears": 6,
+                "fuelType": "Petrol",
+                "noOfDoors": 5,
+                "driversSide": "Right",
+                "weight": 1250,
+                "metallic": "No",
+                "genericColour": "Red"
+            },
+            "vendorDescription": "California GLX",
+            "vehicleSource": "API BIMS",
+            "vin": "9VQ4Y4A5SUFUPT9IK"
+        },
+        {
+            "id": "592544a0610aa349018b4571",
+            "contract": {
+                "collectionRequired": "Yes"
+            },
+            "dateOfRegistration": "2017-05-24",
+            "daysInStock": 649,
+            "defleetDate": "2015-11-05",
+            "engineNumber": "WTOQ-DFJ3",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Exterior",
+                        "equipmentDescription": "Tyre width",
+                        "equipmentPrice": 136.85
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=VN641EN-GB"
+            },
+            "infleetDate": "2017-05-24",
+            "locations": {
+                "currentLocation": {
+                    "townCity": "Manchester",
+                    "code": "aaa"
+                }
+            },
+            "odometerReading": 2525,
+            "odometerUnit": "Kilometres",
+            "originatingSystemID": "GB_4WG3W6D87U",
+            "pricing": {
+                "providerPrice": 56735.81,
+                "providerPriceUpdated": "2017-05-24T09:30:27",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "1",
+                    "guideName": "guideName_1"
+                },
+                "secondary": {
+                    "guideCode": "2",
+                    "guideName": "guideName_2"
+                },
+                "tertiary": {
+                    "guideCode": "3",
+                    "guideName": "guideName_3"
+                }
+            },
+            "regNo": "VN641EN",
+            "serialNumber": "5621",
+            "thirdPartyID": "4WG3W6D87U",
+            "thirdPartyVehicleStatus": "Available",
+            "usage": "Rental Car",
+            "vatStatus": "Commercial",
+            "vehicleSpecification": {
+                "manufacturer": "Toyota",
+                "model": "Scion",
+                "manufacturerModelCode": "A1GM",
+                "manufacturerCode": "TYT",
+                "derivative": "XLE",
+                "description": "Auto Generated vehicle",
+                "vehicleType": "Passenger Car",
+                "transmission": "Automatic",
+                "noOfGears": 6,
+                "fuelType": "Diesel",
+                "noOfDoors": 5,
+                "driversSide": "Right",
+                "weight": 1250,
+                "metallic": "No",
+                "genericColour": "Grey"
+            },
+            "vendorDescription": "Scion XLE",
+            "vehicleSource": "API BIMS",
+            "vin": "ZRMEW4UYQY30ISUC3"
+        },
+        {
+            "id": "59283c6c610aa3be028b45b0",
+            "commercialInformation": {
+                "siv": 13180.69
+            },
+            "dateOfRegistration": "2014-07-02",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Comfort & Convenience",
+                        "equipmentCode": "PRKA"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=AS89JZC-GB"
+            },
+            "locations": {
+                "currentLocation": {
+                    "addressLine1": "CORBY"
+                }
+            },
+            "logBookPresent": "Yes",
+            "odometerReading": 55,
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "equipmentCode": "S0E",
+                            "equipmentDescription": "Special vehicle"
+                        },
+                        {
+                            "equipmentCode": "WDB",
+                            "equipmentDescription": "Park assist"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "V",
+                    "model": "New Golf SV",
+                    "derivative": "New Golf SV GT 1.4 TSI 150 PS 6-speed Manual",
+                    "engineSizeCC": 1968,
+                    "noOfGears": 6,
+                    "fuelType": "P",
+                    "modelYear": 2015,
+                    "noOfDoors": 5,
+                    "colourDescription": "Tungsten Silver Metallic (K5K5 )",
+                    "trimCode": "TW",
+                    "trimDescription": "Titan Black",
+                    "co2": 0
+                }
+            },
+            "originatingSystemID": "1281473",
+            "pricing": {
+                "providerPrice": 91072.44,
+                "providerPriceUpdated": "2017-05-26T15:32:13",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "64471",
+                    "guideName": "CAP ID"
+                }
+            },
+            "regNo": "AS89JZC",
+            "thirdPartyID": "WVVZZZJKZFW500784",
+            "vatStatus": "Qualifying",
+            "vehicleSpecification": {
+                "manufacturer": "VOLKSWAGEN",
+                "model": "GOLF SV",
+                "derivative": "TSI 150 GT",
+                "vehicleType": "Passenger Car",
+                "bodyType": "MPV",
+                "engineSizeCC": 1400,
+                "transmission": "Manual",
+                "fuelType": "Petrol",
+                "modelYear": 2015,
+                "noOfDoors": 5,
+                "colourDescription": "TUNGSTEN SILVER",
+                "trimCode": "TD",
+                "capCode": "VWGS141GT5HPTM  0"
+            },
+            "vendorDescription": "FD/Demonstrator",
+            "vehicleSource": "UCMS_BCA_VW_00000717 (1).xml",
+            "vin": "WVVZZZJKZFW500784"
+        },
+        {
+            "id": "59240481610aa3a3008b46df",
+            "additionalInformation": [
+                {
+                    "item": "Item1",
+                    "value": "value1"
+                },
+                {
+                    "item": "Item2",
+                    "value": "Value2"
+                },
+                {
+                    "item": "Item3",
+                    "value": "Value3"
+                }
+            ],
+            "cherishedPlate": "No",
+            "commercialInformation": {
+                "bookValue": 10.4,
+                "currency": "GBP",
+                "ocn": 16914,
+                "depreciationRate": 10.4,
+                "siv": 10.4,
+                "residualValueNet": 10.4,
+                "residualValueGross": 10.4,
+                "reserve": 10.4,
+                "totalCostOfOptions": 10.4,
+                "totalCostOfDamage": 10.4,
+                "damageRepaired": "No",
+                "damageRepairedDate": "1999-05-31",
+                "totalCostOfRepair": 10.4,
+                "customerDamageCharge": 10.4,
+                "originalLuxuryTax": 10.4,
+                "namaGrade": "1",
+                "intendedLotNumber": "635"
+            },
+            "comments": [
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number",
+                    "commentText": "This is a fake comment"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number2",
+                    "commentText": "Hello this is a automatic imported vehicle"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Fix",
+                    "commentAuthor": "Bruno",
+                    "commentText": "Fake comment"
+                }
+            ],
+            "contract": {
+                "actualReturnDate": "1999-05-31",
+                "actualReturnOdometerReading": 0,
+                "actualReturnOdometerReadingUnit": "Miles",
+                "agreementNumber": "agree",
+                "collectionRequired": "Yes",
+                "contractType": "Fixed",
+                "contractTerm": 0,
+                "contractStartDateTime": "1999-05-31T19:20:00",
+                "contractEndDateTime": "1999-05-31T19:20:00",
+                "contractOdometry": 0,
+                "contractOdometryUnit": "Miles",
+                "contractExtension": "No",
+                "contractExtensionType": "534",
+                "contractExtensionTerm": 0,
+                "contractExtensionStartDateTime": "1999-05-31T19:20:00",
+                "contractExtensionEndDateTime": "1999-05-31T19:20:00",
+                "contractExtensionOdometry": 0,
+                "contractExtensionOdometryUnit": "Miles",
+                "damageWaiver": 10.4,
+                "damageWaiverUnit": "GBP",
+                "estimatedOdometryUnit": "Miles",
+                "estimatedReturnDate": "1999-05-31",
+                "estimatedOdometry": 0,
+                "excessOdometryChargePerUnit": 10.4,
+                "excessOdometry": 0,
+                "excessOdometryChargeTotal": 10.4,
+                "excessOdometryUnit": "Miles",
+                "returnCategory": "542",
+                "vip": "Yes"
+            },
+            "countryOfRegistration": "DE",
+            "customer": {
+                "addressLine1": "London",
+                "addressLine2": "Camdem Town",
+                "townCity": "Chelsea",
+                "code": "codec",
+                "contact": "Giles",
+                "country": "England",
+                "countyState": "United Kingdom",
+                "email": "bcaManagment@account.com",
+                "fax": "bcafax@sell.com",
+                "longitude": 10.4,
+                "latitude": 10.4,
+                "mobileNumber": "657123654",
+                "companyName": "BCA",
+                "phoneNumber": "624544234",
+                "postcode": "PostCode"
+            },
+            "dateOfManufacture": "2015-09-25",
+            "dateOfRegistration": "2016-05-31",
+            "daysInStock": 6651,
+            "defleetDate": "1999-05-31",
+            "defleetOdometerReading": 14261,
+            "defleetOdometerUnit": "Miles",
+            "engineNumber": "HVIG-WT83",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Interior",
+                        "equipmentCode": "100",
+                        "equipmentDescription": "Dual-zone climate control",
+                        "equipmentAbbreviation": "EA1",
+                        "equipmentOEMName": "OEM_NameEquipment",
+                        "equipmentPrice": 191.85,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryStandardFit"
+                    },
+                    {
+                        "category": "abin",
+                        "equipmentCode": "ab",
+                        "equipmentDescription": "Bluetooth telephone interface",
+                        "equipmentAbbreviation": "xx",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 164.32,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "AfterMarket"
+                    },
+                    {
+                        "category": "AC",
+                        "equipmentCode": "eq",
+                        "equipmentDescription": "eq",
+                        "equipmentAbbreviation": "equipmentAbbreviationequi",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 10.4,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryStandardFit"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=8S26SY4-GB"
+            },
+            "imported": "Unknown",
+            "infleetDate": "2011-07-22",
+            "insuranceGroup": "Mapfre",
+            "locations": {
+                "currentLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Michael",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                },
+                "intendedLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Jaine",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                }
+            },
+            "logBookPresent": "No",
+            "MOT": {
+                "lastMOTDate": "1999-05-31",
+                "nextMOTDate": "1999-05-31"
+            },
+            "noOfKeys": 0,
+            "noOfOwners": 0,
+            "odometerReading": 14761,
+            "odometerReadingDate": "1999-05-31",
+            "odometerUnit": "Miles",
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "Volkswagen",
+                    "model": "Vento",
+                    "manufacturerModelCode": "manufacturerModelCodemanu",
+                    "manufacturerCode": "manufacturerCodemanufacturerCodemanufacturerCodema",
+                    "modelMarket": "modelMarketmodelMarketmod",
+                    "derivative": "derivativederivativederivativederivativederivative",
+                    "description": "de",
+                    "vehicleType": "Plant",
+                    "bodyType": "Coupe",
+                    "engineSizeCC": 0,
+                    "transmission": "Semi Automatic",
+                    "noOfGears": 0,
+                    "fuelType": "Petrol",
+                    "fuelEfficiency": 10,
+                    "fuelEfficiencyUnit": "mpg",
+                    "modelYear": 1999,
+                    "modelMonth": 12,
+                    "noOfDoors": 4,
+                    "driveType": "Rear",
+                    "noOfSeatsIncDriver": 2,
+                    "driversSide": "Left",
+                    "weight": 1623,
+                    "weightUnit": "Kilograms",
+                    "noOfBerths": 0,
+                    "cabType": "cabTypecabTypecabTypecabT",
+                    "payload": 10.4,
+                    "payloadUnit": "Kilograms",
+                    "colourCode": "colourCodecolourCodecolou",
+                    "colourDescription": "colourDescriptioncolourDe",
+                    "metallic": "Yes",
+                    "paintType": "paintTypepaintTypepaintTy",
+                    "trimCode": "trimCodetrimCodetrimCodet",
+                    "secondaryTrimCode": "secondaryTrimCodesecondar",
+                    "trimCodeDescription": "trimCodeDescriptiontrimCodeDescriptiontrimCodeDesc",
+                    "secondaryTrimCodeDescription": "secondaryTrimCodeDescriptionsecondaryTrimCodeDescr",
+                    "trimDescription": "trimDescriptiontrimDescri",
+                    "genericColour": "Green",
+                    "co2": 0,
+                    "nox": 0,
+                    "euroEmissionsCategory": "euroEmissionsCategoryeuro",
+                    "capCode": "capCodecapCodecapCodecapC",
+                    "glassCode": "gl",
+                    "powerMeasurement": [
+                        {
+                            "power": 0,
+                            "powerUnit": "KW"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "BHP"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "BHP"
+                        }
+                    ],
+                    "wheelBase": 0,
+                    "marketSegment": "Upper medium"
+                }
+            },
+            "originatingSystemID": "GB_ISQOCZD05X",
+            "ownershipRegistrationCode": "Owner Ship Reg. Code",
+            "previousRegNoChangeDate": "2016-01-01",
+            "previousRegNo": "8S26SY4",
+            "pricing": {
+                "providerPrice": 94897.69,
+                "providerPriceUpdated": "2017-05-23T10:44:59",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "1",
+                    "guideName": "guideName_0"
+                },
+                "secondary": {
+                    "guideCode": "2",
+                    "guideName": "guideName_0"
+                },
+                "tertiary": {
+                    "guideCode": "3",
+                    "guideName": "guideName_0"
+                }
+            },
+            "productionYear": 2015,
+            "productionMonth": 9,
+            "purchaseType": "purchaseType_0",
+            "purchaseOrderNumber": "purchaseOrderNumber_0",
+            "regNo": "8S26SY4",
+            "rental": {
+                "rentalAgreementID": "rentalAgreementId_0",
+                "lastRentalAgreementID": "lastRentalAgreementId_0",
+                "currentReservationID": "currentReservationID_0",
+                "rentalHoldCode": "rentalHoldCode_0",
+                "rentalHoldingCost": 10.4
+            },
+            "roadWorthy": "No",
+            "runner": "No",
+            "serialNumber": "9716",
+            "serviceHistory": {
+                "manufacturerServicePlan": "No",
+                "manufacturerServicePlanExpiryDate": "1999-05-31",
+                "nextServicedate": "1999-05-31",
+                "nextServiceOdometerValue": 0,
+                "nextServiceOdometerUnit": "Miles",
+                "serviceHistoryPresent": "Yes",
+                "totalNumberOfServices": 0,
+                "totalNumberOfMainDealerServices": 0,
+                "service": [
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "No",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Yes",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Unknown",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    }
+                ]
+            },
+            "thirdPartyID": "ISQOCZD05X",
+            "thirdPartyVehicleStatus": "ISQOCZD05X",
+            "usage": "Fleet Demonstrator",
+            "vatStatus": "Commercial",
+            "vehicleSpecification": {
+                "manufacturer": "Volkswagen",
+                "model": "Vento",
+                "manufacturerModelCode": "1JT1",
+                "manufacturerCode": "VKW",
+                "modelMarket": "Power",
+                "derivative": "TDI",
+                "description": "Volkswagen TDI",
+                "vehicleType": "Plant",
+                "bodyType": "Coupe",
+                "engineSizeCC": 0,
+                "transmission": "Semi Automatic",
+                "noOfGears": 0,
+                "fuelType": "Petrol",
+                "fuelEfficiency": 10,
+                "fuelEfficiencyUnit": "Array",
+                "modelYear": 1999,
+                "modelMonth": 12,
+                "noOfDoors": 4,
+                "driveType": "Rear",
+                "noOfSeatsIncDriver": 2,
+                "driversSide": "Left",
+                "weight": 1623,
+                "weightUnit": "Tonne",
+                "noOfBerths": 0,
+                "cabType": "Bicouple",
+                "payload": 840,
+                "payloadUnit": "Tonne",
+                "colourCode": "864",
+                "colourDescription": "875",
+                "metallic": "No",
+                "paintType": "Chrome",
+                "trimCode": "542",
+                "secondaryTrimCode": "JMeter",
+                "trimCodeDescription": "Azure",
+                "secondaryTrimCodeDescription": "Protractor",
+                "trimDescription": "Bims",
+                "genericColour": "Green",
+                "co2": 0,
+                "nox": 0,
+                "euroEmissionsCategory": "Eco",
+                "capCode": "421",
+                "glassCode": "gl",
+                "powerMeasurement": [
+                    {
+                        "power": 80,
+                        "powerUnit": "KW"
+                    },
+                    {
+                        "power": 90,
+                        "powerUnit": "BHP"
+                    },
+                    {
+                        "power": 110,
+                        "powerUnit": "BHP"
+                    }
+                ],
+                "wheelBase": 19,
+                "marketSegment": "Upper medium"
+            },
+            "vendorDescription": "API inserted vehicle",
+            "vehicleSource": "vehicleSource_0",
+            "vin": "D0B79W90QC1V8BIMJ",
+            "warranty": {
+                "odometerWarranted": "Yes",
+                "manufacturerWarrantyApplicable": "No",
+                "manufacturerWarrantyExpiryOdometer": 0,
+                "manufacturerWarrantyExpiryOdometerUnit": "Miles",
+                "manufacturerWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryOdometer": 0,
+                "manufacturerExtendedWarrantyExpiryOdometerUnit": "Miles"
+            }
+        },
+        {
+            "id": "592bdf11610aa315038b45ed",
+            "commercialInformation": {
+                "siv": 17371.79
+            },
+            "dateOfRegistration": "2015-02-19",
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=AS38BGV-GB"
+            },
+            "locations": {
+                "currentLocation": {
+                    "addressLine1": "Left Site"
+                }
+            },
+            "logBookPresent": "Yes",
+            "odometerReading": 11050,
+            "originalSpecification": {
+                "vehicleSpecification": {
+                    "manufacturer": "V",
+                    "model": "Sharan",
+                    "derivative": "XX Sharan SE 2.0 TDI SCR 140PS 6-speed DSG 5 Door",
+                    "engineSizeCC": 1968,
+                    "noOfGears": 6,
+                    "fuelType": "D",
+                    "modelYear": 2015,
+                    "noOfDoors": 5,
+                    "colourDescription": "Pantheon grey metallic (T5T5 )",
+                    "trimCode": "JJ",
+                    "trimDescription": "Titan Black grey roof lining",
+                    "co2": 0
+                }
+            },
+            "originatingSystemID": "1295506",
+            "pricing": {
+                "providerPrice": 38947.93,
+                "providerPriceUpdated": "2017-05-29T09:42:59",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "33065",
+                    "guideName": "CAP ID"
+                }
+            },
+            "regNo": "AS38BGV",
+            "thirdPartyID": "WVWZZZGG3FV030955",
+            "vatStatus": "Qualifying",
+            "vehicleSpecification": {
+                "manufacturer": "VOLKSWAGEN",
+                "model": "SHARAN",
+                "derivative": "TDI 140 S",
+                "vehicleType": "Passenger Car",
+                "bodyType": "MPV",
+                "engineSizeCC": 2000,
+                "transmission": "Manual",
+                "fuelType": "Diesel",
+                "modelYear": 2015,
+                "noOfDoors": 5,
+                "colourDescription": "PLATINUM GREY METALLIC",
+                "trimCode": "INT",
+                "capCode": "VWSH20S  5EDTM  1"
+            },
+            "vendorDescription": "EC/Buyback",
+            "vehicleSource": "UCMS_BCA_VW_00000717 (1).xml",
+            "vin": "WVWZZZGG3FV030955"
+        },
+        {
+            "id": "5922fcc62fe01e2d028b457b",
+            "status": [
+                {
+                    "moduleVersion": "defleetModule:8:2485105",
+                    "processVersion": "defleetProcess:7:2485098",
+                    "processName": "defleetProcess",
+                    "moduleName": "defleetModule",
+                    "processInstance": "2493366",
+                    "stateName": "defleeted",
+                    "statusChangeDate": "2017-05-22T15:59:20"
+                }
+            ],
+            "commercialInformation": {
+                "siv": 16915.88
+            },
+            "dateOfRegistration": "2014-11-07",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Exterior",
+                        "equipmentCode": "SPPA",
+                        "equipmentDescription": "Special Paint - White"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=AS64UCX-GB"
+            },
+            "locations": {
+                "currentLocation": {
+                    "addressLine1": "CORBY"
+                }
+            },
+            "logBookPresent": "No",
+            "odometerReading": 7695,
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "equipmentCode": "S2J",
+                            "equipmentDescription": "Special code white paint"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "V",
+                    "model": "Scirocco",
+                    "derivative": "XX Scirocco GT 2.0 TDI 177PS 6-speed Manual 3 Door",
+                    "engineSizeCC": 1968,
+                    "noOfGears": 6,
+                    "fuelType": "D",
+                    "modelYear": 2014,
+                    "noOfDoors": 2,
+                    "colourDescription": "Candy White (B4B4 )",
+                    "trimCode": "QX",
+                    "trimDescription": "Black leather",
+                    "co2": 0
+                }
+            },
+            "originatingSystemID": "1276654",
+            "pricing": {
+                "providerPrice": 67158.48,
+                "providerPriceUpdated": "2017-05-22T15:59:19",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "58693",
+                    "guideName": "CAP ID"
+                }
+            },
+            "regNo": "AS64UCX",
+            "thirdPartyID": "WVWZZZ13ZEV019364",
+            "vatStatus": "Marginal",
+            "vehicleSpecification": {
+                "manufacturer": "VOLKSWAGEN",
+                "model": "SCIROCCO",
+                "derivative": "TDI 177 GT",
+                "vehicleType": "Passenger Car",
+                "bodyType": "Coupe",
+                "engineSizeCC": 2000,
+                "transmission": "Manual",
+                "fuelType": "Diesel",
+                "modelYear": 2014,
+                "noOfDoors": 3,
+                "colourDescription": "CANDY WHITE",
+                "trimCode": "TD",
+                "capCode": "VWSC20G173CDTM  1"
+            },
+            "vendorDescription": "PL/ECO Plan",
+            "vehicleSource": "UCMS_BCA_VW_00000717 (1).xml",
+            "vin": "WVWZZZ13ZEV019364"
+        },
+        {
+            "id": "59240404610aa39e008b4571",
+            "additionalInformation": [
+                {
+                    "item": "Item1",
+                    "value": "value1"
+                },
+                {
+                    "item": "Item2",
+                    "value": "Value2"
+                },
+                {
+                    "item": "Item3",
+                    "value": "Value3"
+                }
+            ],
+            "cherishedPlate": "No",
+            "commercialInformation": {
+                "bookValue": 10.4,
+                "currency": "GBP",
+                "ocn": 21912,
+                "depreciationRate": 10.4,
+                "siv": 10.4,
+                "residualValueNet": 10.4,
+                "residualValueGross": 10.4,
+                "reserve": 10.4,
+                "totalCostOfOptions": 10.4,
+                "totalCostOfDamage": 10.4,
+                "damageRepaired": "No",
+                "damageRepairedDate": "1999-05-31",
+                "totalCostOfRepair": 10.4,
+                "customerDamageCharge": 10.4,
+                "originalLuxuryTax": 10.4,
+                "namaGrade": "1",
+                "intendedLotNumber": "635"
+            },
+            "comments": [
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number",
+                    "commentText": "This is a fake comment"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number2",
+                    "commentText": "Hello this is a automatic imported vehicle"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Fix",
+                    "commentAuthor": "Bruno",
+                    "commentText": "Fake comment"
+                }
+            ],
+            "contract": {
+                "actualReturnDate": "1999-05-31",
+                "actualReturnOdometerReading": 0,
+                "actualReturnOdometerReadingUnit": "Miles",
+                "agreementNumber": "agree",
+                "contractType": "Fixed",
+                "contractTerm": 0,
+                "contractStartDateTime": "1999-05-31T19:20:00",
+                "contractEndDateTime": "1999-05-31T19:20:00",
+                "contractOdometry": 0,
+                "contractOdometryUnit": "Miles",
+                "contractExtension": "No",
+                "contractExtensionType": "534",
+                "contractExtensionTerm": 0,
+                "contractExtensionStartDateTime": "1999-05-31T19:20:00",
+                "contractExtensionEndDateTime": "1999-05-31T19:20:00",
+                "contractExtensionOdometry": 0,
+                "contractExtensionOdometryUnit": "Miles",
+                "damageWaiver": 10.4,
+                "damageWaiverUnit": "GBP",
+                "estimatedOdometryUnit": "Miles",
+                "estimatedReturnDate": "1999-05-31",
+                "estimatedOdometry": 0,
+                "excessOdometryChargePerUnit": 10.4,
+                "excessOdometry": 0,
+                "excessOdometryChargeTotal": 10.4,
+                "excessOdometryUnit": "Miles",
+                "returnCategory": "542",
+                "vip": "Yes"
+            },
+            "countryOfRegistration": "DE",
+            "customer": {
+                "addressLine1": "London",
+                "addressLine2": "Camdem Town",
+                "townCity": "Chelsea",
+                "code": "codec",
+                "contact": "Giles",
+                "country": "England",
+                "countyState": "United Kingdom",
+                "email": "bcaManagment@account.com",
+                "fax": "bcafax@sell.com",
+                "longitude": 10.4,
+                "latitude": 10.4,
+                "mobileNumber": "657123654",
+                "companyName": "BCA",
+                "phoneNumber": "624544234",
+                "postcode": "PostCode"
+            },
+            "dateOfManufacture": "2016-06-05",
+            "dateOfRegistration": "2015-06-05",
+            "daysInStock": 84,
+            "defleetDate": "2017-05-23",
+            "defleetOdometerReading": 28691,
+            "defleetOdometerUnit": "Miles",
+            "engineNumber": "CVOC-4KZA",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Exterior",
+                        "equipmentCode": "100",
+                        "equipmentDescription": "Tyre width",
+                        "equipmentAbbreviation": "EA1",
+                        "equipmentOEMName": "OEM_NameEquipment",
+                        "equipmentPrice": 116.81,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryNonStandardFit"
+                    },
+                    {
+                        "category": "abin",
+                        "equipmentCode": "ab",
+                        "equipmentDescription": "Folding electric mirrors",
+                        "equipmentAbbreviation": "xx",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 191.73,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "Dealer"
+                    },
+                    {
+                        "category": "AC",
+                        "equipmentCode": "eq",
+                        "equipmentDescription": "eq",
+                        "equipmentAbbreviation": "equipmentAbbreviationequi",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 10.4,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryStandardFit"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=EVANO0Q-GB"
+            },
+            "imported": "Unknown",
+            "infleetDate": "2017-05-23",
+            "insuranceGroup": "Allianz",
+            "locations": {
+                "currentLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Michael",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                },
+                "intendedLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Jaine",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                }
+            },
+            "logBookPresent": "No",
+            "MOT": {
+                "lastMOTDate": "1999-05-31",
+                "nextMOTDate": "1999-05-31"
+            },
+            "noOfKeys": 0,
+            "noOfOwners": 0,
+            "odometerReading": 29191,
+            "odometerReadingDate": "1999-05-31",
+            "odometerUnit": "Miles",
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "Volkswagen",
+                    "model": "Jetta",
+                    "manufacturerModelCode": "manufacturerModelCodemanu",
+                    "manufacturerCode": "manufacturerCodemanufacturerCodemanufacturerCodema",
+                    "modelMarket": "modelMarketmodelMarketmod",
+                    "derivative": "derivativederivativederivativederivativederivative",
+                    "description": "de",
+                    "vehicleType": "Light Commercial Vehicle",
+                    "bodyType": "Coupe",
+                    "engineSizeCC": 0,
+                    "transmission": "Manual",
+                    "noOfGears": 0,
+                    "fuelType": "Diesel",
+                    "fuelEfficiency": 10,
+                    "fuelEfficiencyUnit": "mpg",
+                    "modelYear": 1999,
+                    "modelMonth": 12,
+                    "noOfDoors": 4,
+                    "driveType": "Rear",
+                    "noOfSeatsIncDriver": 3,
+                    "driversSide": "Left",
+                    "weight": 1993,
+                    "weightUnit": "Kilograms",
+                    "noOfBerths": 0,
+                    "cabType": "cabTypecabTypecabTypecabT",
+                    "payload": 10.4,
+                    "payloadUnit": "Kilograms",
+                    "colourCode": "colourCodecolourCodecolou",
+                    "colourDescription": "colourDescriptioncolourDe",
+                    "metallic": "Yes",
+                    "paintType": "paintTypepaintTypepaintTy",
+                    "trimCode": "trimCodetrimCodetrimCodet",
+                    "secondaryTrimCode": "secondaryTrimCodesecondar",
+                    "trimCodeDescription": "trimCodeDescriptiontrimCodeDescriptiontrimCodeDesc",
+                    "secondaryTrimCodeDescription": "secondaryTrimCodeDescriptionsecondaryTrimCodeDescr",
+                    "trimDescription": "trimDescriptiontrimDescri",
+                    "genericColour": "Yellow",
+                    "co2": 0,
+                    "nox": 0,
+                    "euroEmissionsCategory": "euroEmissionsCategoryeuro",
+                    "capCode": "capCodecapCodecapCodecapC",
+                    "glassCode": "gl",
+                    "powerMeasurement": [
+                        {
+                            "power": 0,
+                            "powerUnit": "KWH"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "KWH"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "PS"
+                        }
+                    ],
+                    "wheelBase": 0,
+                    "marketSegment": "Upper medium"
+                }
+            },
+            "originatingSystemID": "GB_FTC5EDXH3M",
+            "ownershipRegistrationCode": "Owner Ship Reg. Code",
+            "previousRegNoChangeDate": "2016-01-01",
+            "previousRegNo": "EVANO0Q",
+            "pricing": {
+                "providerPrice": 21861.64,
+                "providerPriceUpdated": "2017-05-23T10:42:54",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "1",
+                    "guideName": "guideName_0"
+                },
+                "secondary": {
+                    "guideCode": "2",
+                    "guideName": "guideName_0"
+                },
+                "tertiary": {
+                    "guideCode": "3",
+                    "guideName": "guideName_0"
+                }
+            },
+            "productionYear": 2016,
+            "productionMonth": 6,
+            "purchaseType": "purchaseType_0",
+            "purchaseOrderNumber": "purchaseOrderNumber_0",
+            "regNo": "EVANO0Q",
+            "rental": {
+                "rentalAgreementID": "rentalAgreementId_0",
+                "lastRentalAgreementID": "lastRentalAgreementId_0",
+                "currentReservationID": "currentReservationID_0",
+                "rentalHoldCode": "rentalHoldCode_0",
+                "rentalHoldingCost": 10.4
+            },
+            "roadWorthy": "No",
+            "runner": "No",
+            "serialNumber": "9300",
+            "serviceHistory": {
+                "manufacturerServicePlan": "No",
+                "manufacturerServicePlanExpiryDate": "1999-05-31",
+                "nextServicedate": "1999-05-31",
+                "nextServiceOdometerValue": 0,
+                "nextServiceOdometerUnit": "Miles",
+                "serviceHistoryPresent": "Yes",
+                "totalNumberOfServices": 0,
+                "totalNumberOfMainDealerServices": 0,
+                "service": [
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "No",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Yes",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Unknown",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    }
+                ]
+            },
+            "thirdPartyID": "FTC5EDXH3M",
+            "thirdPartyVehicleStatus": "FTC5EDXH3M",
+            "usage": "Normal Use",
+            "vatStatus": "Marginal",
+            "vehicleSpecification": {
+                "manufacturer": "Volkswagen",
+                "model": "Jetta",
+                "manufacturerModelCode": "6J20",
+                "manufacturerCode": "VKW",
+                "modelMarket": "Power",
+                "derivative": "2.0T",
+                "description": "Volkswagen 2.0T",
+                "vehicleType": "Light Commercial Vehicle",
+                "bodyType": "Coupe",
+                "engineSizeCC": 0,
+                "transmission": "Manual",
+                "noOfGears": 0,
+                "fuelType": "Diesel",
+                "fuelEfficiency": 10,
+                "fuelEfficiencyUnit": "Array",
+                "modelYear": 1999,
+                "modelMonth": 12,
+                "noOfDoors": 4,
+                "driveType": "Rear",
+                "noOfSeatsIncDriver": 3,
+                "driversSide": "Left",
+                "weight": 1993,
+                "weightUnit": "Kilograms",
+                "noOfBerths": 0,
+                "cabType": "Bicouple",
+                "payload": 912,
+                "payloadUnit": "Kilograms",
+                "colourCode": "864",
+                "colourDescription": "875",
+                "metallic": "Yes",
+                "paintType": "Chrome",
+                "trimCode": "542",
+                "secondaryTrimCode": "JMeter",
+                "trimCodeDescription": "Azure",
+                "secondaryTrimCodeDescription": "Protractor",
+                "trimDescription": "Bims",
+                "genericColour": "Yellow",
+                "co2": 0,
+                "nox": 0,
+                "euroEmissionsCategory": "Eco",
+                "capCode": "421",
+                "glassCode": "gl",
+                "powerMeasurement": [
+                    {
+                        "power": 80,
+                        "powerUnit": "KWH"
+                    },
+                    {
+                        "power": 90,
+                        "powerUnit": "KWH"
+                    },
+                    {
+                        "power": 110,
+                        "powerUnit": "PS"
+                    }
+                ],
+                "wheelBase": 19,
+                "marketSegment": "Upper medium"
+            },
+            "vendorDescription": "API inserted vehicle",
+            "vehicleSource": "vehicleSource_0",
+            "vin": "QFNH1HX018MX5DVSL",
+            "warranty": {
+                "odometerWarranted": "Yes",
+                "manufacturerWarrantyApplicable": "No",
+                "manufacturerWarrantyExpiryOdometer": 0,
+                "manufacturerWarrantyExpiryOdometerUnit": "Miles",
+                "manufacturerWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryOdometer": 0,
+                "manufacturerExtendedWarrantyExpiryOdometerUnit": "Miles"
+            }
+        },
+        {
+            "id": "59240586610aa3a2008b4571",
+            "additionalInformation": [
+                {
+                    "item": "Item1",
+                    "value": "value1"
+                },
+                {
+                    "item": "Item2",
+                    "value": "Value2"
+                },
+                {
+                    "item": "Item3",
+                    "value": "Value3"
+                }
+            ],
+            "cherishedPlate": "Yes",
+            "commercialInformation": {
+                "bookValue": 10.4,
+                "currency": "GBP",
+                "ocn": 15423,
+                "depreciationRate": 10.4,
+                "siv": 10.4,
+                "residualValueNet": 10.4,
+                "residualValueGross": 10.4,
+                "reserve": 10.4,
+                "totalCostOfOptions": 10.4,
+                "totalCostOfDamage": 10.4,
+                "damageRepaired": "No",
+                "damageRepairedDate": "1999-05-31",
+                "totalCostOfRepair": 10.4,
+                "customerDamageCharge": 10.4,
+                "originalLuxuryTax": 10.4,
+                "namaGrade": "1",
+                "intendedLotNumber": "635"
+            },
+            "comments": [
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number",
+                    "commentText": "This is a fake comment"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number2",
+                    "commentText": "Hello this is a automatic imported vehicle"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Fix",
+                    "commentAuthor": "Bruno",
+                    "commentText": "Fake comment"
+                }
+            ],
+            "contract": {
+                "actualReturnDate": "1999-05-31",
+                "actualReturnOdometerReading": 0,
+                "actualReturnOdometerReadingUnit": "Miles",
+                "agreementNumber": "agree",
+                "contractType": "Fixed",
+                "contractTerm": 0,
+                "contractStartDateTime": "1999-05-31T19:20:00",
+                "contractEndDateTime": "1999-05-31T19:20:00",
+                "contractOdometry": 0,
+                "contractOdometryUnit": "Miles",
+                "contractExtension": "No",
+                "contractExtensionType": "534",
+                "contractExtensionTerm": 0,
+                "contractExtensionStartDateTime": "1999-05-31T19:20:00",
+                "contractExtensionEndDateTime": "1999-05-31T19:20:00",
+                "contractExtensionOdometry": 0,
+                "contractExtensionOdometryUnit": "Miles",
+                "damageWaiver": 10.4,
+                "damageWaiverUnit": "GBP",
+                "estimatedOdometryUnit": "Miles",
+                "estimatedReturnDate": "1999-05-31",
+                "estimatedOdometry": 0,
+                "excessOdometryChargePerUnit": 10.4,
+                "excessOdometry": 0,
+                "excessOdometryChargeTotal": 10.4,
+                "excessOdometryUnit": "Miles",
+                "returnCategory": "542",
+                "vip": "Yes"
+            },
+            "countryOfRegistration": "DE",
+            "customer": {
+                "addressLine1": "London",
+                "addressLine2": "Camdem Town",
+                "townCity": "Chelsea",
+                "code": "codec",
+                "contact": "Giles",
+                "country": "England",
+                "countyState": "United Kingdom",
+                "email": "bcaManagment@account.com",
+                "fax": "bcafax@sell.com",
+                "longitude": 10.4,
+                "latitude": 10.4,
+                "mobileNumber": "657123654",
+                "companyName": "BCA",
+                "phoneNumber": "624544234",
+                "postcode": "PostCode"
+            },
+            "dateOfManufacture": "2016-04-09",
+            "dateOfRegistration": "2015-04-09",
+            "daysInStock": 84,
+            "defleetDate": "2017-05-23",
+            "defleetOdometerReading": 22833,
+            "defleetOdometerUnit": "Hours",
+            "engineNumber": "QEKS-IS5J",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Interior",
+                        "equipmentCode": "100",
+                        "equipmentDescription": "CD - Single",
+                        "equipmentAbbreviation": "EA1",
+                        "equipmentOEMName": "OEM_NameEquipment",
+                        "equipmentPrice": 149.2,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryStandardFit"
+                    },
+                    {
+                        "category": "abin",
+                        "equipmentCode": "ab",
+                        "equipmentDescription": "Satellite navigation",
+                        "equipmentAbbreviation": "xx",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 157.95,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "AfterMarket"
+                    },
+                    {
+                        "category": "AC",
+                        "equipmentCode": "eq",
+                        "equipmentDescription": "eq",
+                        "equipmentAbbreviation": "equipmentAbbreviationequi",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 10.4,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryStandardFit"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=00R5JXM-GB"
+            },
+            "imported": "No",
+            "infleetDate": "2017-05-23",
+            "insuranceGroup": "Allianz",
+            "locations": {
+                "currentLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Michael",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                },
+                "intendedLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Jaine",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                }
+            },
+            "logBookPresent": "Yes",
+            "MOT": {
+                "lastMOTDate": "1999-05-31",
+                "nextMOTDate": "1999-05-31"
+            },
+            "noOfKeys": 0,
+            "noOfOwners": 0,
+            "odometerReading": 23333,
+            "odometerReadingDate": "1999-05-31",
+            "odometerUnit": "Hours",
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "Volkswagen",
+                    "model": "California",
+                    "manufacturerModelCode": "manufacturerModelCodemanu",
+                    "manufacturerCode": "manufacturerCodemanufacturerCodemanufacturerCodema",
+                    "modelMarket": "modelMarketmodelMarketmod",
+                    "derivative": "derivativederivativederivativederivativederivative",
+                    "description": "de",
+                    "vehicleType": "Passenger Car",
+                    "bodyType": "Coupe",
+                    "engineSizeCC": 0,
+                    "transmission": "Automatic",
+                    "noOfGears": 0,
+                    "fuelType": "Diesel",
+                    "fuelEfficiency": 10,
+                    "fuelEfficiencyUnit": "mpg",
+                    "modelYear": 1999,
+                    "modelMonth": 12,
+                    "noOfDoors": 4,
+                    "driveType": "Rear",
+                    "noOfSeatsIncDriver": 3,
+                    "driversSide": "Left",
+                    "weight": 1412,
+                    "weightUnit": "Kilograms",
+                    "noOfBerths": 0,
+                    "cabType": "cabTypecabTypecabTypecabT",
+                    "payload": 10.4,
+                    "payloadUnit": "Kilograms",
+                    "colourCode": "colourCodecolourCodecolou",
+                    "colourDescription": "colourDescriptioncolourDe",
+                    "metallic": "Yes",
+                    "paintType": "paintTypepaintTypepaintTy",
+                    "trimCode": "trimCodetrimCodetrimCodet",
+                    "secondaryTrimCode": "secondaryTrimCodesecondar",
+                    "trimCodeDescription": "trimCodeDescriptiontrimCodeDescriptiontrimCodeDesc",
+                    "secondaryTrimCodeDescription": "secondaryTrimCodeDescriptionsecondaryTrimCodeDescr",
+                    "trimDescription": "trimDescriptiontrimDescri",
+                    "genericColour": "White",
+                    "co2": 0,
+                    "nox": 0,
+                    "euroEmissionsCategory": "euroEmissionsCategoryeuro",
+                    "capCode": "capCodecapCodecapCodecapC",
+                    "glassCode": "gl",
+                    "powerMeasurement": [
+                        {
+                            "power": 0,
+                            "powerUnit": "BHP"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "KWH"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "PS"
+                        }
+                    ],
+                    "wheelBase": 0,
+                    "marketSegment": "Upper medium"
+                }
+            },
+            "originatingSystemID": "GB_EUEXTS8C5Y",
+            "ownershipRegistrationCode": "Owner Ship Reg. Code",
+            "previousRegNoChangeDate": "2016-01-01",
+            "previousRegNo": "00R5JXM",
+            "pricing": {
+                "providerPrice": 90501.99,
+                "providerPriceUpdated": "2017-05-23T10:49:20",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "1",
+                    "guideName": "guideName_0"
+                },
+                "secondary": {
+                    "guideCode": "2",
+                    "guideName": "guideName_0"
+                },
+                "tertiary": {
+                    "guideCode": "3",
+                    "guideName": "guideName_0"
+                }
+            },
+            "productionYear": 2016,
+            "productionMonth": 4,
+            "purchaseType": "purchaseType_0",
+            "purchaseOrderNumber": "purchaseOrderNumber_0",
+            "regNo": "00R5JXM",
+            "rental": {
+                "rentalAgreementID": "rentalAgreementId_0",
+                "lastRentalAgreementID": "lastRentalAgreementId_0",
+                "currentReservationID": "currentReservationID_0",
+                "rentalHoldCode": "rentalHoldCode_0",
+                "rentalHoldingCost": 10.4
+            },
+            "roadWorthy": "Yes",
+            "runner": "Yes",
+            "serialNumber": "5435",
+            "serviceHistory": {
+                "manufacturerServicePlan": "No",
+                "manufacturerServicePlanExpiryDate": "1999-05-31",
+                "nextServicedate": "1999-05-31",
+                "nextServiceOdometerValue": 0,
+                "nextServiceOdometerUnit": "Miles",
+                "serviceHistoryPresent": "Yes",
+                "totalNumberOfServices": 0,
+                "totalNumberOfMainDealerServices": 0,
+                "service": [
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "No",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Yes",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Unknown",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    }
+                ]
+            },
+            "thirdPartyID": "EUEXTS8C5Y",
+            "thirdPartyVehicleStatus": "EUEXTS8C5Y",
+            "usage": "Rental Car",
+            "vatStatus": "Commercial",
+            "vehicleSpecification": {
+                "manufacturer": "Volkswagen",
+                "model": "California",
+                "manufacturerModelCode": "GHIA",
+                "manufacturerCode": "VKW",
+                "modelMarket": "Power",
+                "derivative": "TDI",
+                "description": "Volkswagen TDI",
+                "vehicleType": "Passenger Car",
+                "bodyType": "Coupe",
+                "engineSizeCC": 0,
+                "transmission": "Automatic",
+                "noOfGears": 0,
+                "fuelType": "Diesel",
+                "fuelEfficiency": 10,
+                "fuelEfficiencyUnit": "Array",
+                "modelYear": 1999,
+                "modelMonth": 12,
+                "noOfDoors": 4,
+                "driveType": "Rear",
+                "noOfSeatsIncDriver": 3,
+                "driversSide": "Left",
+                "weight": 1412,
+                "weightUnit": "Pounds",
+                "noOfBerths": 0,
+                "cabType": "Bicouple",
+                "payload": 367,
+                "payloadUnit": "Pounds",
+                "colourCode": "864",
+                "colourDescription": "875",
+                "metallic": "Unknown",
+                "paintType": "Chrome",
+                "trimCode": "542",
+                "secondaryTrimCode": "JMeter",
+                "trimCodeDescription": "Azure",
+                "secondaryTrimCodeDescription": "Protractor",
+                "trimDescription": "Bims",
+                "genericColour": "White",
+                "co2": 0,
+                "nox": 0,
+                "euroEmissionsCategory": "Eco",
+                "capCode": "421",
+                "glassCode": "gl",
+                "powerMeasurement": [
+                    {
+                        "power": 80,
+                        "powerUnit": "BHP"
+                    },
+                    {
+                        "power": 90,
+                        "powerUnit": "KWH"
+                    },
+                    {
+                        "power": 110,
+                        "powerUnit": "PS"
+                    }
+                ],
+                "wheelBase": 19,
+                "marketSegment": "Upper medium"
+            },
+            "vendorDescription": "API inserted vehicle",
+            "vehicleSource": "vehicleSource_0",
+            "vin": "X16L8UQSK5WE7NKH1",
+            "warranty": {
+                "odometerWarranted": "Yes",
+                "manufacturerWarrantyApplicable": "No",
+                "manufacturerWarrantyExpiryOdometer": 0,
+                "manufacturerWarrantyExpiryOdometerUnit": "Miles",
+                "manufacturerWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryOdometer": 0,
+                "manufacturerExtendedWarrantyExpiryOdometerUnit": "Miles"
+            }
+        },
+        {
+            "id": "592590e0610aa386018b4571",
+            "commercialInformation": {
+                "siv": 13923.46
+            },
+            "dateOfRegistration": "2015-03-02",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Additional Information",
+                        "equipmentCode": "NOK1",
+                        "equipmentDescription": "Number of Keys"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=AS19OAG-GB"
+            },
+            "locations": {
+                "currentLocation": {
+                    "addressLine1": "Left Site"
+                }
+            },
+            "logBookPresent": "No",
+            "odometerReading": 14193,
+            "originalSpecification": {
+                "vehicleSpecification": {
+                    "manufacturer": "V",
+                    "model": "New Passat Salo",
+                    "derivative": "Passat Saloon S 1.6 TDI BMT 120PS 6-speed Manual 4 Door",
+                    "engineSizeCC": 1598,
+                    "noOfGears": 6,
+                    "fuelType": "D",
+                    "modelYear": 2015,
+                    "noOfDoors": 4,
+                    "colourDescription": "Reflex Silver Metallic (8E8E )",
+                    "trimCode": "TO",
+                    "trimDescription": "Titan Black",
+                    "co2": 0
+                }
+            },
+            "originatingSystemID": "1296154",
+            "pricing": {
+                "providerPrice": 12254.11,
+                "providerPriceUpdated": "2017-05-24T14:55:46",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "70626",
+                    "guideName": "CAP ID"
+                }
+            },
+            "regNo": "AS19OAG",
+            "thirdPartyID": "WVWZZZ3CZFE444119",
+            "vatStatus": "Qualifying",
+            "vehicleSpecification": {
+                "manufacturer": "VOLKSWAGEN",
+                "model": "PASSAT",
+                "derivative": "TDI 120 BLUEMOTION",
+                "vehicleType": "Passenger Car",
+                "bodyType": "Saloon",
+                "engineSizeCC": 1600,
+                "transmission": "Manual",
+                "fuelType": "Diesel",
+                "modelYear": 2015,
+                "noOfDoors": 4,
+                "colourDescription": "REFLEX SILVER METALLIC",
+                "trimCode": "TRP",
+                "capCode": "VWPA16BMN4SDTM  6"
+            },
+            "vendorDescription": "AV/Buyback",
+            "vehicleSource": "UCMS_BCA_VW_00000717 (1).xml",
+            "vin": "WVWZZZ3CZFE444119"
+        },
+        {
+            "id": "59258aad610aa381018b45bb",
+            "commercialInformation": {
+                "siv": 15646.39
+            },
+            "dateOfRegistration": "2014-10-01",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Exterior",
+                        "equipmentCode": "DMR",
+                        "equipmentDescription": "Door Mirrors - Silver"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=AS64KAZ-GB"
+            },
+            "locations": {
+                "currentLocation": {
+                    "addressLine1": "Left Site"
+                }
+            },
+            "logBookPresent": "No",
+            "odometerReading": 1953,
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "equipmentCode": "6FG",
+                            "equipmentDescription": "Silver painted exterior mirror"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "V",
+                    "model": "Beetle",
+                    "derivative": "Beetle Turbo Silver 2.0 TSI 210 PS 6-speed manual",
+                    "engineSizeCC": 1984,
+                    "noOfGears": 6,
+                    "fuelType": "P",
+                    "modelYear": 2014,
+                    "noOfDoors": 3,
+                    "colourDescription": "Deep Black Pearlescent (2T2T )",
+                    "trimCode": "MX",
+                    "trimDescription": "Titan Black cloth",
+                    "co2": 0
+                }
+            },
+            "originatingSystemID": "1282286",
+            "pricing": {
+                "providerPrice": 39655.43,
+                "providerPriceUpdated": "2017-05-24T14:29:20",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "60866",
+                    "guideName": "CAP ID"
+                }
+            },
+            "regNo": "AS64KAZ",
+            "thirdPartyID": "WVWZZZ16ZEM666564",
+            "vatStatus": "Marginal",
+            "vehicleSpecification": {
+                "manufacturer": "VOLKSWAGEN",
+                "model": "BEETLE",
+                "derivative": "TSI 210 TURBO SILVER",
+                "vehicleType": "Passenger Car",
+                "bodyType": "Hatchback",
+                "engineSizeCC": 2000,
+                "transmission": "Manual",
+                "fuelType": "Petrol",
+                "modelYear": 2014,
+                "noOfDoors": 3,
+                "colourDescription": "SUNSET RED",
+                "trimCode": "TD",
+                "capCode": "VWBE20TS13HPTM  2"
+            },
+            "vendorDescription": "RL/Loan Car",
+            "vehicleSource": "UCMS_BCA_VW_00000717 (1).xml",
+            "vin": "WVWZZZ16ZEM666564"
+        },
+        {
+            "id": "592bdc48610aa314038b4580",
+            "commercialInformation": {
+                "siv": 11122.85
+            },
+            "dateOfRegistration": "2014-05-01",
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=AS24FLC-GB"
+            },
+            "locations": {
+                "currentLocation": {
+                    "addressLine1": "CORBY"
+                }
+            },
+            "logBookPresent": "No",
+            "odometerReading": 1509,
+            "originalSpecification": {
+                "vehicleSpecification": {
+                    "manufacturer": "V",
+                    "model": "Volkswagen CC",
+                    "derivative": "XX Volkswagen CC CC 2.0 TDI 140PS BlueMotion Technology 6-speed DSG 5 seats",
+                    "engineSizeCC": 1968,
+                    "noOfGears": 6,
+                    "fuelType": "D",
+                    "modelYear": 2014,
+                    "noOfDoors": 4,
+                    "colourDescription": "Island Grey Pearlescent (C9C9 )",
+                    "trimCode": "AI",
+                    "trimDescription": "Black 'Silversprint' Fabric",
+                    "co2": 0
+                }
+            },
+            "originatingSystemID": "1272917",
+            "pricing": {
+                "providerPrice": 73207.9,
+                "providerPriceUpdated": "2017-05-29T09:31:08",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "54409",
+                    "guideName": "CAP ID"
+                }
+            },
+            "regNo": "AS24FLC",
+            "thirdPartyID": "WFFZZFFASDE533314",
+            "vatStatus": "Qualifying",
+            "vehicleSpecification": {
+                "manufacturer": "VOLKSWAGEN",
+                "model": "CC",
+                "derivative": "TDI CR 140 BMT DSG",
+                "vehicleType": "Passenger Car",
+                "bodyType": "Saloon",
+                "engineSizeCC": 2000,
+                "transmission": "Autoclutch",
+                "fuelType": "Diesel",
+                "modelYear": 2014,
+                "noOfDoors": 4,
+                "colourDescription": "C9C9 Island Grey Pearl",
+                "trimCode": "TD",
+                "capCode": "VWCC20BT 4SDTA  0"
+            },
+            "vendorDescription": "FD/Demonstrator",
+            "vehicleSource": "UCMS_BCA_VW_00000717 (1).xml",
+            "vin": "WFFZZFFASDE533314"
+        },
+        {
+            "id": "5922e5452fe01ef3018b4571",
+            "additionalInformation": [
+                {
+                    "item": "Item1",
+                    "value": "value1"
+                },
+                {
+                    "item": "Item2",
+                    "value": "Value2"
+                },
+                {
+                    "item": "Item3",
+                    "value": "Value3"
+                }
+            ],
+            "cherishedPlate": "No",
+            "commercialInformation": {
+                "bookValue": 10.4,
+                "currency": "GBP",
+                "ocn": 18606,
+                "depreciationRate": 10.4,
+                "siv": 10.4,
+                "residualValueNet": 10.4,
+                "residualValueGross": 10.4,
+                "reserve": 10.4,
+                "totalCostOfOptions": 10.4,
+                "totalCostOfDamage": 10.4,
+                "damageRepaired": "No",
+                "damageRepairedDate": "1999-05-31",
+                "totalCostOfRepair": 10.4,
+                "customerDamageCharge": 10.4,
+                "originalLuxuryTax": 10.4,
+                "namaGrade": "1",
+                "intendedLotNumber": "635"
+            },
+            "comments": [
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number",
+                    "commentText": "This is a fake comment"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Serial",
+                    "commentAuthor": "Number2",
+                    "commentText": "Hello this is a automatic imported vehicle"
+                },
+                {
+                    "commentDateTime": "1999-05-31T19:20:00",
+                    "commentType": "Fix",
+                    "commentAuthor": "Bruno",
+                    "commentText": "Fake comment"
+                }
+            ],
+            "contract": {
+                "actualReturnDate": "1999-05-31",
+                "actualReturnOdometerReading": 0,
+                "actualReturnOdometerReadingUnit": "Miles",
+                "agreementNumber": "agree",
+                "collectionRequired": "Yes",
+                "contractType": "Fixed",
+                "contractTerm": 0,
+                "contractStartDateTime": "1999-05-31T19:20:00",
+                "contractEndDateTime": "1999-05-31T19:20:00",
+                "contractOdometry": 0,
+                "contractOdometryUnit": "Miles",
+                "contractExtension": "No",
+                "contractExtensionType": "534",
+                "contractExtensionTerm": 0,
+                "contractExtensionStartDateTime": "1999-05-31T19:20:00",
+                "contractExtensionEndDateTime": "1999-05-31T19:20:00",
+                "contractExtensionOdometry": 0,
+                "contractExtensionOdometryUnit": "Miles",
+                "damageWaiver": 10.4,
+                "damageWaiverUnit": "GBP",
+                "estimatedOdometryUnit": "Miles",
+                "estimatedReturnDate": "1999-05-31",
+                "estimatedOdometry": 0,
+                "excessOdometryChargePerUnit": 10.4,
+                "excessOdometry": 0,
+                "excessOdometryChargeTotal": 10.4,
+                "excessOdometryUnit": "Miles",
+                "returnCategory": "542",
+                "vip": "Yes"
+            },
+            "countryOfRegistration": "DE",
+            "customer": {
+                "addressLine1": "London",
+                "addressLine2": "Camdem Town",
+                "townCity": "Chelsea",
+                "code": "codec",
+                "contact": "Giles",
+                "country": "England",
+                "countyState": "United Kingdom",
+                "email": "bcaManagment@account.com",
+                "fax": "bcafax@sell.com",
+                "longitude": 10.4,
+                "latitude": 10.4,
+                "mobileNumber": "657123654",
+                "companyName": "BCA",
+                "phoneNumber": "624544234",
+                "postcode": "PostCode"
+            },
+            "dateOfManufacture": "2009-09-24",
+            "dateOfRegistration": "2016-05-31",
+            "daysInStock": 6651,
+            "defleetDate": "1999-05-31",
+            "defleetOdometerReading": 2357,
+            "defleetOdometerUnit": "Hours",
+            "engineNumber": "ZSRR-UOCF",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Engine & Tecnology",
+                        "equipmentCode": "100",
+                        "equipmentDescription": "Traction control",
+                        "equipmentAbbreviation": "EA1",
+                        "equipmentOEMName": "OEM_NameEquipment",
+                        "equipmentPrice": 158.25,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "AfterMarket"
+                    },
+                    {
+                        "category": "abin",
+                        "equipmentCode": "ab",
+                        "equipmentDescription": "Remote central locking",
+                        "equipmentAbbreviation": "xx",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 100.87,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryNonStandardFit"
+                    },
+                    {
+                        "category": "AC",
+                        "equipmentCode": "eq",
+                        "equipmentDescription": "eq",
+                        "equipmentAbbreviation": "equipmentAbbreviationequi",
+                        "equipmentOEMName": "equipmentOEMNameequipment",
+                        "equipmentPrice": 10.4,
+                        "equipmentPriceCurrency": "GBP",
+                        "fitter": "FactoryStandardFit"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=0U8JCZO-GB"
+            },
+            "imported": "Unknown",
+            "infleetDate": "1999-05-31",
+            "insuranceGroup": "Allianz",
+            "locations": {
+                "currentLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Michael",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                },
+                "intendedLocation": {
+                    "arrivalDateTime": "1999-05-31T19:20:00",
+                    "parkingLotNumber": "123",
+                    "addressLine1": "Liverpool",
+                    "addressLine2": "Manchester",
+                    "townCity": "City",
+                    "code": "codec",
+                    "contact": "Jaine",
+                    "country": "England",
+                    "countyState": "United Kingdom",
+                    "email": "trump@us.es",
+                    "fax": "brexit@es.es",
+                    "longitude": 10.4,
+                    "latitude": 10.4,
+                    "mobileNumber": "657456987",
+                    "companyName": "BCA",
+                    "phoneNumber": "245678432",
+                    "postcode": "08080"
+                }
+            },
+            "logBookPresent": "No",
+            "MOT": {
+                "lastMOTDate": "1999-05-31",
+                "nextMOTDate": "1999-05-31"
+            },
+            "noOfKeys": 0,
+            "noOfOwners": 1,
+            "odometerReading": 2857,
+            "odometerReadingDate": "1999-05-31",
+            "odometerUnit": "Hours",
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        },
+                        {
+                            "category": "categorycategorycategoryc",
+                            "equipmentCode": "eq",
+                            "equipmentDescription": "eq",
+                            "equipmentAbbreviation": "equipmentAbbreviationequi",
+                            "equipmentOEMName": "equipmentOEMNameequipment",
+                            "equipmentPrice": 10.4,
+                            "equipmentPriceCurrency": "GBP",
+                            "fitter": "FactoryStandardFit"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "Volkswagen",
+                    "model": "Touran",
+                    "manufacturerModelCode": "manufacturerModelCodemanu",
+                    "manufacturerCode": "manufacturerCodemanufacturerCodemanufacturerCodema",
+                    "modelMarket": "modelMarketmodelMarketmod",
+                    "derivative": "derivativederivativederivativederivativederivative",
+                    "description": "de",
+                    "vehicleType": "Light Commercial Vehicle",
+                    "bodyType": "Crossover",
+                    "engineSizeCC": 0,
+                    "transmission": "Semi Automatic",
+                    "noOfGears": 0,
+                    "fuelType": "Diesel/Electric",
+                    "fuelEfficiency": 10,
+                    "fuelEfficiencyUnit": "mpg",
+                    "modelYear": 1999,
+                    "modelMonth": 12,
+                    "noOfDoors": 4,
+                    "driveType": "Rear",
+                    "noOfSeatsIncDriver": 4,
+                    "driversSide": "Left",
+                    "weight": 1521,
+                    "weightUnit": "Kilograms",
+                    "noOfBerths": 0,
+                    "cabType": "cabTypecabTypecabTypecabT",
+                    "payload": 10.4,
+                    "payloadUnit": "Kilograms",
+                    "colourCode": "colourCodecolourCodecolou",
+                    "colourDescription": "colourDescriptioncolourDe",
+                    "metallic": "Yes",
+                    "paintType": "paintTypepaintTypepaintTy",
+                    "trimCode": "trimCodetrimCodetrimCodet",
+                    "secondaryTrimCode": "secondaryTrimCodesecondar",
+                    "trimCodeDescription": "trimCodeDescriptiontrimCodeDescriptiontrimCodeDesc",
+                    "secondaryTrimCodeDescription": "secondaryTrimCodeDescriptionsecondaryTrimCodeDescr",
+                    "trimDescription": "trimDescriptiontrimDescri",
+                    "genericColour": "White",
+                    "co2": 0,
+                    "nox": 0,
+                    "euroEmissionsCategory": "euroEmissionsCategoryeuro",
+                    "capCode": "capCodecapCodecapCodecapC",
+                    "glassCode": "gl",
+                    "powerMeasurement": [
+                        {
+                            "power": 0,
+                            "powerUnit": "BHP"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "BHP"
+                        },
+                        {
+                            "power": 0,
+                            "powerUnit": "KW"
+                        }
+                    ],
+                    "wheelBase": 0,
+                    "marketSegment": "Upper medium"
+                }
+            },
+            "originatingSystemID": "GB_C6H0TPPUKZ",
+            "ownershipRegistrationCode": "Owner Ship Reg. Code",
+            "previousRegNoChangeDate": "2016-01-01",
+            "previousRegNo": "0U8JCZO",
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "1",
+                    "guideName": "guideName_0"
+                },
+                "secondary": {
+                    "guideCode": "2",
+                    "guideName": "guideName_0"
+                },
+                "tertiary": {
+                    "guideCode": "3",
+                    "guideName": "guideName_0"
+                }
+            },
+            "productionYear": 2009,
+            "productionMonth": 9,
+            "purchaseType": "purchaseType_0",
+            "purchaseOrderNumber": "purchaseOrderNumber_0",
+            "regNo": "0U8JCZO",
+            "rental": {
+                "rentalAgreementID": "rentalAgreementId_0",
+                "lastRentalAgreementID": "lastRentalAgreementId_0",
+                "currentReservationID": "currentReservationID_0",
+                "rentalHoldCode": "rentalHoldCode_0",
+                "rentalHoldingCost": 10.4
+            },
+            "roadWorthy": "No",
+            "runner": "No",
+            "serialNumber": "6200",
+            "serviceHistory": {
+                "manufacturerServicePlan": "No",
+                "manufacturerServicePlanExpiryDate": "1999-05-31",
+                "nextServicedate": "1999-05-31",
+                "nextServiceOdometerValue": 0,
+                "nextServiceOdometerUnit": "Miles",
+                "serviceHistoryPresent": "Yes",
+                "totalNumberOfServices": 0,
+                "totalNumberOfMainDealerServices": 0,
+                "service": [
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "No",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Yes",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    },
+                    {
+                        "electronicServiceSchedule": "elec",
+                        "mainDealer": "Unknown",
+                        "serviceDate": "1999-05-31",
+                        "serviceOdometer": 0,
+                        "serviceOdometerUnit": "Miles",
+                        "serviceType": "serviceType_0",
+                        "serviceInformation": {}
+                    }
+                ]
+            },
+            "thirdPartyID": "C6H0TPPUKZ",
+            "thirdPartyVehicleStatus": "C6H0TPPUKZ",
+            "usage": "Fleet Demonstrator",
+            "vatStatus": "Marginal",
+            "vehicleSpecification": {
+                "manufacturer": "Volkswagen",
+                "model": "Touran",
+                "manufacturerModelCode": "4HXX",
+                "manufacturerCode": "VKW",
+                "modelMarket": "Power",
+                "derivative": "SEL",
+                "description": "Volkswagen SEL",
+                "vehicleType": "Light Commercial Vehicle",
+                "bodyType": "Crossover",
+                "engineSizeCC": 0,
+                "transmission": "Semi Automatic",
+                "noOfGears": 0,
+                "fuelType": "Diesel/Electric",
+                "fuelEfficiency": 10,
+                "fuelEfficiencyUnit": "Array",
+                "modelYear": 1999,
+                "modelMonth": 12,
+                "noOfDoors": 4,
+                "driveType": "Rear",
+                "noOfSeatsIncDriver": 4,
+                "driversSide": "Left",
+                "weight": 1521,
+                "weightUnit": "Tonne",
+                "noOfBerths": 0,
+                "cabType": "Bicouple",
+                "payload": 666,
+                "payloadUnit": "Tonne",
+                "colourCode": "864",
+                "colourDescription": "875",
+                "metallic": "Unknown",
+                "paintType": "Chrome",
+                "trimCode": "542",
+                "secondaryTrimCode": "JMeter",
+                "trimCodeDescription": "Azure",
+                "secondaryTrimCodeDescription": "Protractor",
+                "trimDescription": "Bims",
+                "genericColour": "White",
+                "co2": 0,
+                "nox": 0,
+                "euroEmissionsCategory": "Eco",
+                "capCode": "421",
+                "glassCode": "gl",
+                "powerMeasurement": [
+                    {
+                        "power": 80,
+                        "powerUnit": "BHP"
+                    },
+                    {
+                        "power": 90,
+                        "powerUnit": "BHP"
+                    },
+                    {
+                        "power": 110,
+                        "powerUnit": "KW"
+                    }
+                ],
+                "wheelBase": 19,
+                "marketSegment": "Upper medium"
+            },
+            "vendorDescription": "API inserted vehicle",
+            "vehicleSource": "vehicleSource_0",
+            "vin": "1QKDDOQRVUYULHWQ9",
+            "warranty": {
+                "odometerWarranted": "Yes",
+                "manufacturerWarrantyApplicable": "No",
+                "manufacturerWarrantyExpiryOdometer": 0,
+                "manufacturerWarrantyExpiryOdometerUnit": "Miles",
+                "manufacturerWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryDate": "1999-05-31",
+                "manufacturerExtendedWarrantyExpiryOdometer": 0,
+                "manufacturerExtendedWarrantyExpiryOdometerUnit": "Miles"
+            }
+        },
+        {
+            "id": "59253441610aa342018b4571",
+            "contract": {
+                "collectionRequired": "Yes"
+            },
+            "dateOfRegistration": "2017-05-24",
+            "daysInStock": 649,
+            "defleetDate": "2015-11-05",
+            "engineNumber": "PJHO-IKZY",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "Interior",
+                        "equipmentDescription": "Satellite navigation",
+                        "equipmentPrice": 118.14
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=ELBCFBY-GB"
+            },
+            "infleetDate": "2017-05-24",
+            "locations": {
+                "currentLocation": {
+                    "townCity": "Edinburgh",
+                    "code": "aaa"
+                }
+            },
+            "odometerReading": 9024,
+            "odometerUnit": "Kilometres",
+            "originatingSystemID": "GB_9956IL2YPU",
+            "pricing": {
+                "providerPrice": 34239.7,
+                "providerPriceUpdated": "2017-05-24T08:20:35",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "1",
+                    "guideName": "guideName_1"
+                },
+                "secondary": {
+                    "guideCode": "2",
+                    "guideName": "guideName_2"
+                },
+                "tertiary": {
+                    "guideCode": "3",
+                    "guideName": "guideName_3"
+                }
+            },
+            "regNo": "ELBCFBY",
+            "serialNumber": "1755",
+            "thirdPartyID": "9956IL2YPU",
+            "thirdPartyVehicleStatus": "Available",
+            "usage": "Normal Use",
+            "vatStatus": "Qualifying",
+            "vehicleSpecification": {
+                "manufacturer": "Mercedes",
+                "model": "GLA",
+                "manufacturerModelCode": "XJJ8",
+                "manufacturerCode": "MRC",
+                "derivative": "E 320 CDI",
+                "description": "Auto Generated vehicle",
+                "vehicleType": "Passenger Car",
+                "transmission": "Manual",
+                "noOfGears": 6,
+                "fuelType": "Diesel",
+                "noOfDoors": 5,
+                "driversSide": "Right",
+                "weight": 1250,
+                "metallic": "No",
+                "genericColour": "White"
+            },
+            "vendorDescription": "GLA E 320 CDI",
+            "vehicleSource": "API BIMS",
+            "vin": "RB13IMOS9C346P87S"
+        },
+        {
+            "id": "592590e0610aa381018b4601",
+            "commercialInformation": {
+                "siv": 14267.82
+            },
+            "dateOfRegistration": "2014-07-08",
+            "equipment": {
+                "equipmentItem": [
+                    {
+                        "category": "AVS Datafeed",
+                        "equipmentCode": "AW",
+                        "equipmentDescription": "Alloy Wheels"
+                    },
+                    {
+                        "category": "Comfort & Convenience",
+                        "equipmentCode": "PRKA"
+                    },
+                    {
+                        "category": "Exterior",
+                        "equipmentCode": "HW",
+                        "equipmentDescription": "Heated Windscreen"
+                    },
+                    {
+                        "category": "GENERAL",
+                        "equipmentCode": "TELE",
+                        "equipmentDescription": "Telephone"
+                    },
+                    {
+                        "category": "Packs",
+                        "equipmentCode": "WPCK",
+                        "equipmentDescription": "Winter Pack"
+                    }
+                ]
+            },
+            "image": {
+                "type": "vehicleMainImage",
+                "url": "https://uat.bcaimage.com/Document?docType=VehicleImage&Reg=AS44WGZ-GB"
+            },
+            "locations": {
+                "currentLocation": {
+                    "addressLine1": "HEYFORD"
+                }
+            },
+            "logBookPresent": "No",
+            "odometerReading": 2244,
+            "originalSpecification": {
+                "equipment": {
+                    "equipmentItem": [
+                        {
+                            "equipmentCode": "SA6",
+                            "equipmentDescription": "HMRC Plug-In Car Grant (retail"
+                        },
+                        {
+                            "equipmentCode": "S0E",
+                            "equipmentDescription": "Special vehicle"
+                        },
+                        {
+                            "equipmentCode": "WDB",
+                            "equipmentDescription": "Park assist"
+                        },
+                        {
+                            "equipmentCode": "WW1",
+                            "equipmentDescription": "Winter pack"
+                        },
+                        {
+                            "equipmentCode": "4GW",
+                            "equipmentDescription": "Clear glass windshield, heated"
+                        },
+                        {
+                            "equipmentCode": "9ZK",
+                            "equipmentDescription": "Premium telephone system"
+                        }
+                    ]
+                },
+                "vehicleSpecification": {
+                    "manufacturer": "V",
+                    "model": "e-Golf",
+                    "derivative": "Golf e-Golf  115PS BEV",
+                    "engineSizeCC": 0,
+                    "noOfGears": 1,
+                    "fuelType": "P",
+                    "modelYear": 2015,
+                    "noOfDoors": 5,
+                    "colourDescription": "Pure White (0Q0Q )",
+                    "trimCode": "TW",
+                    "trimDescription": "Titan Black",
+                    "co2": 0
+                }
+            },
+            "originatingSystemID": "1283882",
+            "pricing": {
+                "providerPrice": 80224.99,
+                "providerPriceUpdated": "2017-05-24T14:55:46",
+                "valuationProvider": "capAverage"
+            },
+            "guideCodes": {
+                "primary": {
+                    "guideCode": "64015",
+                    "guideName": "CAP ID"
+                }
+            },
+            "regNo": "AS44WGZ",
+            "thirdPartyID": "WVWZZZAUZFW900544",
+            "vatStatus": "Qualifying",
+            "vehicleSpecification": {
+                "manufacturer": "VOLKSWAGEN",
+                "model": "GOLF",
+                "derivative": "E-GOLF",
+                "vehicleType": "Passenger Car",
+                "bodyType": "Hatchback",
+                "engineSizeCC": 0,
+                "transmission": "Automatic",
+                "fuelType": "Electric",
+                "modelYear": 2015,
+                "noOfDoors": 5,
+                "colourDescription": "WHITE",
+                "trimCode": "TD",
+                "capCode": "VWGO00EGF5HE A  5"
+            },
+            "vendorDescription": "FD/Demonstrator",
+            "vehicleSource": "UCMS_BCA_VW_00000717 (1).xml",
+            "vin": "WVWZZZAUZFW900544"
+        }
+    ],
+    "_cursor": {
+        "total": 1586,
+        "top": 20,
+        "skip": 0,
+        "totalFiltered": 1586,
+        "next": "/api/v1/vehicles?%24top=20&%24skip=20"
+    }
+}

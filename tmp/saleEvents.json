@@ -1,0 +1,682 @@
+{
+    "result": [
+        {
+            "id": "5971fb3586da5ce6008b45bc",
+            "aggregatedSale": "No",
+            "bidIncrement": 110,
+            "branchCode": "1",
+            "capacity": 15,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "eSales",
+            "saleName": "E-Sale VW JP0987",
+            "saleType": "Tender Sale",
+            "saleID": "JP0987",
+            "saleReference": "1",
+            "saleStartDateTime": "2025-07-10T00:00:00",
+            "saleEndDateTime": "2025-08-15T00:00:00",
+            "thirdPartySaleType": "GEN",
+            "userGroup": "VWUK",
+            "xBid": {
+                "selectionCriteria": "Interval",
+                "interval": 45
+            }
+        },
+        {
+            "id": "5971cb0786da5c84008b4567",
+            "aggregatedSale": "No",
+            "bidIncrement": 250,
+            "branchCode": "1",
+            "capacity": 20,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "eSales",
+            "saleName": "Event Test 0377",
+            "saleType": "Fixed Price",
+            "saleID": "007343",
+            "saleStartDateTime": "2018-11-29T13:02:48",
+            "saleEndDateTime": "2018-12-29T13:02:48",
+            "thirdPartySaleType": "Preston",
+            "userGroup": "{{userGroup}}"
+        },
+        {
+            "id": "59351072dd061d52008b4567",
+            "branchCode": "1",
+            "capacity": 20,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false,
+                "lastPublicationAttempt": [
+                    {
+                        "messageType": "saleMessage",
+                        "identifier": "59351072dd061d52008b4567",
+                        "result": "Failed",
+                        "logID": "596f3ac9fb49dc66018b4582"
+                    }
+                ]
+            },
+            "salesChannel": "physicalAuction",
+            "saleName": "Event Test 277",
+            "saleID": "59351072dd061d52008b4567",
+            "saleReference": "277",
+            "saleLocation": "BCA-Edinburgh",
+            "saleStartDateTime": "2018-11-29T13:02:48",
+            "saleEndDateTime": "2018-12-29T13:02:48",
+            "errors": [
+                "400 - Sale already exist"
+            ]
+        },
+        {
+            "id": "5922e4222fe01eea018b457e",
+            "branchCode": "1",
+            "capacity": 20,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "physicalAuction",
+            "saleName": "Event Test 463",
+            "saleID": "ZJALDQ",
+            "saleReference": "463",
+            "saleLocation": "BCA-Glasgow",
+            "saleStartDateTime": "2018-11-29T13:02:48",
+            "saleEndDateTime": "2018-12-29T13:02:48"
+        },
+        {
+            "id": "5936c45c64414010018b46e7",
+            "branchCode": "1",
+            "capacity": 20,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "physicalAuction",
+            "saleName": "Event Test 620",
+            "saleID": "ICHIES",
+            "saleReference": "620",
+            "saleLocation": "BCA-Newcastle",
+            "saleStartDateTime": "2018-11-29T13:02:48",
+            "saleEndDateTime": "2018-12-29T13:02:48"
+        },
+        {
+            "id": "5936c5f464414005018b457a",
+            "branchCode": "1",
+            "capacity": 20,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "physicalAuction",
+            "saleName": "Event Test 623",
+            "saleID": "EBCYGM",
+            "saleReference": "623",
+            "saleLocation": "BCA-Glasgow",
+            "saleStartDateTime": "2018-11-29T13:02:48",
+            "saleEndDateTime": "2018-12-29T13:02:48"
+        },
+        {
+            "id": "5936c051644140cd008b46da",
+            "branchCode": "1",
+            "capacity": 20,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false,
+                "lastPublicationAttempt": [
+                    {
+                        "messageType": "saleMessage",
+                        "identifier": "5936c051644140cd008b46da",
+                        "result": "Success",
+                        "logID": "5936c073644140cc008b46e8"
+                    }
+                ]
+            },
+            "salesChannel": "physicalAuction",
+            "saleName": "Event Test 750",
+            "saleID": "5936c051644140cd008b46da",
+            "saleReference": "750",
+            "saleLocation": "BCA-Bedford",
+            "saleStartDateTime": "2018-11-29T13:02:48",
+            "saleEndDateTime": "2018-12-29T13:02:48"
+        },
+        {
+            "id": "5936c356644140fb008b4569",
+            "branchCode": "1",
+            "capacity": 20,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "physicalAuction",
+            "saleName": "Event Test 928",
+            "saleID": "JNWRVX",
+            "saleReference": "928f",
+            "saleLocation": "BCA-Manchester",
+            "saleStartDateTime": "2018-11-29T13:02:48",
+            "saleEndDateTime": "2018-12-29T13:02:48"
+        },
+        {
+            "id": "5970703cfb49dc56028b457f",
+            "branchCode": "1",
+            "capacity": 15,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false,
+                "lastPublicationAttempt": [
+                    {
+                        "messageType": "saleMessage",
+                        "identifier": "1234JP",
+                        "result": "Success",
+                        "logID": "5970705ffb49dc58028b457e"
+                    }
+                ]
+            },
+            "salesChannel": "physicalAuction",
+            "saleName": "Sale Event Phys.Auction",
+            "saleID": "1234JP",
+            "saleReference": "10",
+            "saleLocation": "Sevilla",
+            "saleStartDateTime": "2018-01-31T00:00:00",
+            "saleEndDateTime": "2018-03-01T00:00:00"
+        },
+        {
+            "id": "593ea2383b9e768d018b4567",
+            "provider": {
+                "id": "5912d24933cd562ac036da1e",
+                "inactive": false,
+                "name": "Manheim",
+                "partnerId": "manheim",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "published",
+                "time": "2017-06-29T15:25:10",
+                "lastVersion": 3,
+                "version": 4,
+                "modified": true,
+                "lastPublicationAttempt": [
+                    {
+                        "messageType": "saleMessage",
+                        "identifier": "CWWGUA",
+                        "result": "Success",
+                        "logID": "59550dbbc244a5e5008b460f"
+                    },
+                    {
+                        "messageType": "lotItemMessage",
+                        "identifier": "DDWZZZRUZFW326818",
+                        "result": "Success",
+                        "logID": "59550dbdc244a5e5008b4613"
+                    },
+                    {
+                        "messageType": "lotItemMessage",
+                        "identifier": "DAWZZZGG3FV030955",
+                        "result": "Success",
+                        "logID": "59550dc0c244a5e5008b4619"
+                    },
+                    {
+                        "messageType": "lotItemMessage",
+                        "identifier": "DAAAPP23ZEV019363",
+                        "result": "Success",
+                        "logID": "59550dc1c244a5e5008b461f"
+                    },
+                    {
+                        "messageType": "lotItemMessage",
+                        "identifier": "AS17FLKUZHW350024",
+                        "result": "Success",
+                        "logID": "59550dc2c244a5e5008b4625"
+                    },
+                    {
+                        "messageType": "lotItemMessage",
+                        "identifier": "NMWZZZRUZFW320818",
+                        "result": "Success",
+                        "logID": "59550dc3c244a5e5008b462b"
+                    },
+                    {
+                        "messageType": "lotItemMessage",
+                        "identifier": "NM15776RZFU057994",
+                        "result": "Success",
+                        "logID": "59550dc4c244a5e5008b4631"
+                    },
+                    {
+                        "messageType": "lotItemMessage",
+                        "identifier": "NM16ZZVVZFP622023",
+                        "result": "Success",
+                        "logID": "59550dc5c244a5e5008b4637"
+                    },
+                    {
+                        "messageType": "publishMessage",
+                        "identifier": "CWWGUA",
+                        "result": "Success",
+                        "logID": "59550dc6c244a5e5008b463c"
+                    }
+                ]
+            },
+            "salesChannel": "oemUvl",
+            "saleName": "OEM test",
+            "saleID": "CWWGUA",
+            "saleReference": "Test",
+            "saleLocation": "off site",
+            "saleStartDateTime": "2017-12-01T19:00:00",
+            "saleEndDateTime": "2018-03-02T00:00:00"
+        },
+        {
+            "id": "596f562eda241d9a018b4567",
+            "aggregatedSale": "No",
+            "bidIncrement": 1250,
+            "branchCode": "1",
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "eSales",
+            "saleName": "E-Sañe Volkswagen 0015",
+            "saleType": "Tender Sale",
+            "saleID": "0015AG",
+            "saleReference": "151",
+            "saleStartDateTime": "2017-10-19T00:00:00",
+            "saleEndDateTime": "2018-03-23T00:00:00",
+            "thirdPartySaleType": "GEN",
+            "userGroup": "VWUK",
+            "xBid": {
+                "interval": 150
+            }
+        },
+        {
+            "id": "599190701d6a5cd4008b4567",
+            "aggregatedSale": "No",
+            "branchCode": "1",
+            "capacity": 11,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "eSales",
+            "saleName": "EE2154",
+            "saleType": "Fixed Price",
+            "saleID": "EE2154",
+            "saleStartDateTime": "2017-08-30T00:00:00",
+            "saleEndDateTime": "2017-08-31T00:00:00",
+            "thirdPartySaleType": "GEN",
+            "userGroup": "VWUK"
+        },
+        {
+            "id": "598476c64b89a187008b4567",
+            "aggregatedSale": "No",
+            "bidIncrement": 12,
+            "branchCode": "1",
+            "capacity": 123,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "published",
+                "time": "2017-08-04T14:55:09",
+                "lastVersion": 3,
+                "version": 3,
+                "modified": false,
+                "lastPublicationAttempt": [
+                    {
+                        "messageType": "saleMessage",
+                        "identifier": "A3EQ24",
+                        "result": "Success",
+                        "logID": "59847cbb98141d9f008b4588"
+                    },
+                    {
+                        "messageType": "publishMessage",
+                        "identifier": "A3EQ24",
+                        "result": "Success",
+                        "logID": "59847cbd98141d9f008b458d"
+                    }
+                ]
+            },
+            "salesChannel": "eSales",
+            "saleName": "DPO UAT169",
+            "saleType": "Tender Sale",
+            "saleID": "A3EQ24",
+            "saleReference": "12",
+            "saleStartDateTime": "2017-08-27T00:00:00",
+            "saleEndDateTime": "2017-09-02T00:00:00",
+            "thirdPartySaleType": "GEN",
+            "userGroup": "VWUK",
+            "xBid": {
+                "selectionCriteria": "All No tender"
+            }
+        },
+        {
+            "id": "598ac51fb11982cd008b4567",
+            "aggregatedSale": "No",
+            "bidIncrement": 123,
+            "branchCode": "1",
+            "capacity": 123,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "published",
+                "time": "2017-08-09T09:23:46",
+                "lastVersion": 2,
+                "version": 2,
+                "modified": false,
+                "lastPublicationAttempt": [
+                    {
+                        "messageType": "saleMessage",
+                        "identifier": "090810",
+                        "result": "Success",
+                        "logID": "598ac691e747f5d7008b4588"
+                    },
+                    {
+                        "messageType": "publishMessage",
+                        "identifier": "090810",
+                        "result": "Success",
+                        "logID": "598ac692e747f5d7008b458d"
+                    }
+                ]
+            },
+            "salesChannel": "eSales",
+            "saleName": "SE 0908 1017",
+            "saleType": "Tender Sale",
+            "saleID": "090810",
+            "saleReference": "123",
+            "saleStartDateTime": "2017-08-27T00:00:00",
+            "saleEndDateTime": "2017-09-02T00:00:00",
+            "thirdPartySaleType": "GEN",
+            "userGroup": "VWUK",
+            "xBid": {
+                "selectionCriteria": "All No tender"
+            }
+        },
+        {
+            "id": "598042454c85673a018b46fa",
+            "aggregatedSale": "No",
+            "bidIncrement": 53,
+            "branchCode": "1",
+            "capacity": 45235,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "eSales",
+            "saleName": "adfa",
+            "saleType": "Tender Sale",
+            "saleID": "ASF325",
+            "saleReference": "54353",
+            "saleStartDateTime": "2017-08-27T00:00:00",
+            "saleEndDateTime": "2017-09-02T00:00:00",
+            "thirdPartySaleType": "GEN",
+            "userGroup": "VWUK",
+            "xBid": {
+                "selectionCriteria": "Interval",
+                "interval": 452
+            }
+        },
+        {
+            "id": "59919adad9cabdf3008b4567",
+            "aggregatedSale": "No",
+            "branchCode": "1",
+            "capacity": 11,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "eSales",
+            "saleName": "621121",
+            "saleType": "Fixed Price",
+            "saleID": "621121",
+            "saleStartDateTime": "2017-08-23T00:00:00",
+            "saleEndDateTime": "2017-08-27T00:00:00",
+            "thirdPartySaleType": "GEN",
+            "userGroup": "VWUK"
+        },
+        {
+            "id": "599190a9d9cabdce008b4575",
+            "aggregatedSale": "No",
+            "branchCode": "1",
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "eSales",
+            "saleName": "JW TEST",
+            "saleType": "Fixed Price",
+            "saleID": "JWVW10",
+            "saleStartDateTime": "2017-08-20T00:00:00",
+            "saleEndDateTime": "2017-08-22T00:00:00",
+            "thirdPartySaleType": "GEN",
+            "userGroup": "VWUK"
+        },
+        {
+            "id": "59919043d9cabdd1008b4568",
+            "aggregatedSale": "No",
+            "branchCode": "1",
+            "capacity": 11,
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "eSales",
+            "saleName": "EE5125",
+            "saleType": "Fixed Price",
+            "saleID": "EE5125",
+            "saleStartDateTime": "2017-08-17T00:00:00",
+            "saleEndDateTime": "2017-08-18T00:00:00",
+            "thirdPartySaleType": "GEN",
+            "userGroup": "VWUK"
+        },
+        {
+            "id": "5971a015c8633b1e018b46e7",
+            "branchCode": "1",
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "published",
+                "time": "2017-07-21T07:36:26",
+                "lastVersion": 1,
+                "version": 2,
+                "modified": true,
+                "lastPublicationAttempt": [
+                    {
+                        "messageType": "saleMessage",
+                        "identifier": "2918PS",
+                        "result": "Success",
+                        "logID": "5971a0da97c68f1e018b4568"
+                    },
+                    {
+                        "messageType": "lotItemMessage",
+                        "identifier": "ZQJYO3QQGV",
+                        "result": "Success",
+                        "logID": "5971a0e097c68f1e018b456e"
+                    },
+                    {
+                        "messageType": "lotItemMessage",
+                        "identifier": "6NWHXM2GRE",
+                        "result": "Success",
+                        "logID": "5971a0e997c68f1e018b4574"
+                    },
+                    {
+                        "messageType": "publishMessage",
+                        "identifier": "2918PS",
+                        "result": "Success",
+                        "logID": "5971a0ea97c68f1e018b4579"
+                    }
+                ]
+            },
+            "salesChannel": "eAuction",
+            "saleName": "Test 2918",
+            "saleID": "2918PS",
+            "saleReference": "2918",
+            "saleStartDateTime": "2017-08-15T00:00:00",
+            "saleEndDateTime": "2017-09-01T00:00:00",
+            "thirdPartySaleType": "ELE",
+            "userGroup": "VWCR"
+        },
+        {
+            "id": "59785f409c2e57fa008b4758",
+            "aggregatedSale": "No",
+            "branchCode": "1",
+            "provider": {
+                "id": "57f756cc4210c8dcab950792",
+                "inactive": false,
+                "name": "BCA",
+                "partnerId": "bca",
+                "type": "saleProvider"
+            },
+            "publication": {
+                "state": "open",
+                "version": 1,
+                "modified": false
+            },
+            "salesChannel": "eSales",
+            "saleName": "Test-3481-02",
+            "saleType": "Fixed Price",
+            "saleID": "348102",
+            "saleReference": "348102",
+            "saleStartDateTime": "2017-08-15T00:00:00",
+            "saleEndDateTime": "2017-09-01T00:00:00",
+            "thirdPartySaleType": "GEN",
+            "userGroup": "VWUK"
+        }
+    ],
+    "_cursor": {
+        "total": 267,
+        "top": 20,
+        "skip": 0,
+        "totalFiltered": 267,
+        "next": "/api/v1/saleevents?%24top=20&%24skip=20"
+    }
+}

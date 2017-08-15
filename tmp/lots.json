@@ -1,0 +1,352 @@
+{
+    "result": [
+        {
+            "id": "598ab865b11982c4008b457a",
+            "lotID": "1",
+            "lotStatus": "Not sold",
+            "startingPrice": 11111,
+            "saleID": "EE6166",
+            "type": "lot",
+            "createdDateTime": "2017-08-09T08:23:36",
+            "createdBy": {
+                "id": "58e3d6e021616a005b037ee3",
+                "defaultPartner": "cars",
+                "email": "andrei.serban@eminussoftware.com",
+                "firstName": "Andrei",
+                "lastName": "Serban",
+                "username": "aserban"
+            },
+            "order": 1
+        },
+        {
+            "id": "5981e2c54c856716038b4567",
+            "lotID": "2",
+            "lotStatus": "Not sold",
+            "startingPrice": 2,
+            "saleID": "ARS060",
+            "type": "lot",
+            "createdDateTime": "2017-08-02T15:34:34",
+            "createdBy": {
+                "id": "5930445881940a4d88480fbe",
+                "defaultPartner": "cars",
+                "email": "andrei.radu@eminussoftware.com",
+                "firstName": "Andrei",
+                "lastName": "Radu",
+                "username": "andradu"
+            },
+            "order": 2
+        },
+        {
+            "id": "5981e2c3f9807b0e038b4567",
+            "bid": {
+                "bidder": {
+                    "code": "BCA"
+                }
+            },
+            "buyer": {},
+            "soldDateTime": "2017-08-08T18:49:08",
+            "lotID": "1",
+            "lotStatus": "Sold",
+            "startingPrice": 100,
+            "soldPrice": 4854,
+            "saleID": "ARS060",
+            "type": "lot",
+            "createdDateTime": "2017-08-02T15:34:14",
+            "createdBy": {
+                "id": "5930445881940a4d88480fbe",
+                "defaultPartner": "cars",
+                "email": "andrei.radu@eminussoftware.com",
+                "firstName": "Andrei",
+                "lastName": "Radu",
+                "username": "andradu"
+            },
+            "order": 1
+        },
+        {
+            "id": "5981b8f14c856793028b4567",
+            "lotStatus": "Not sold",
+            "startingPrice": 4555,
+            "saleID": "ARS047",
+            "type": "lot",
+            "createdDateTime": "2017-08-02T12:38:16",
+            "createdBy": {
+                "id": "5930445881940a4d88480fbe",
+                "defaultPartner": "cars",
+                "email": "andrei.radu@eminussoftware.com",
+                "firstName": "Andrei",
+                "lastName": "Radu",
+                "username": "andradu"
+            },
+            "order": 1
+        },
+        {
+            "id": "5980691bf9807be4018b4567",
+            "soldDateTime": "2017-08-09T07:47:31",
+            "lotID": "3",
+            "lotStatus": "Not sold",
+            "startingPrice": 3000,
+            "saleID": "CXR543",
+            "type": "lot",
+            "createdDateTime": "2017-08-01T12:42:48",
+            "createdBy": {
+                "id": "5875e15c774504bbd60a0268",
+                "defaultPartner": "cars",
+                "email": "test@test.com",
+                "firstName": "Bryan",
+                "inactive": false,
+                "lastLogin": "2016-08-16",
+                "lastName": "Raynoldss",
+                "loginAttempts": 0,
+                "username": "vw_user"
+            },
+            "order": 3
+        },
+        {
+            "id": "59806916f9807be3018b4568",
+            "soldDateTime": "2017-08-09T07:47:08",
+            "lotID": "2",
+            "lotStatus": "Not sold",
+            "startingPrice": 3000,
+            "saleID": "CXR543",
+            "type": "lot",
+            "createdDateTime": "2017-08-01T12:42:42",
+            "createdBy": {
+                "id": "5875e15c774504bbd60a0268",
+                "defaultPartner": "cars",
+                "email": "test@test.com",
+                "firstName": "Bryan",
+                "inactive": false,
+                "lastLogin": "2016-08-16",
+                "lastName": "Raynoldss",
+                "loginAttempts": 0,
+                "username": "vw_user"
+            },
+            "order": 2
+        },
+        {
+            "id": "5980690ff9807be2018b4568",
+            "soldDateTime": "2017-08-09T07:47:04",
+            "lotID": "1",
+            "lotStatus": "Not sold",
+            "startingPrice": 3000,
+            "saleID": "CXR543",
+            "type": "lot",
+            "createdDateTime": "2017-08-01T12:42:36",
+            "createdBy": {
+                "id": "5875e15c774504bbd60a0268",
+                "defaultPartner": "cars",
+                "email": "test@test.com",
+                "firstName": "Bryan",
+                "inactive": false,
+                "lastLogin": "2016-08-16",
+                "lastName": "Raynoldss",
+                "loginAttempts": 0,
+                "username": "vw_user"
+            },
+            "order": 1
+        },
+        {
+            "id": "59805d5a4c856750018b457b",
+            "soldDateTime": "2017-08-09T07:47:38",
+            "lotID": "3",
+            "lotStatus": "Not sold",
+            "startingPrice": 3000,
+            "saleID": "FYT098",
+            "type": "lot",
+            "createdDateTime": "2017-08-01T11:54:25",
+            "createdBy": {
+                "id": "5875e15c774504bbd60a0268",
+                "defaultPartner": "cars",
+                "email": "test@test.com",
+                "firstName": "Bryan",
+                "inactive": false,
+                "lastLogin": "2016-08-16",
+                "lastName": "Raynoldss",
+                "loginAttempts": 0,
+                "username": "vw_user"
+            },
+            "order": 3
+        },
+        {
+            "id": "59805d524c856753018b4569",
+            "soldDateTime": "2017-08-09T07:47:27",
+            "lotID": "2",
+            "lotStatus": "Not sold",
+            "startingPrice": 3000,
+            "saleID": "FYT098",
+            "type": "lot",
+            "createdDateTime": "2017-08-01T11:53:19",
+            "createdBy": {
+                "id": "5875e15c774504bbd60a0268",
+                "defaultPartner": "cars",
+                "email": "test@test.com",
+                "firstName": "Bryan",
+                "inactive": false,
+                "lastLogin": "2016-08-16",
+                "lastName": "Raynoldss",
+                "loginAttempts": 0,
+                "username": "vw_user"
+            },
+            "order": 2
+        },
+        {
+            "id": "59805d4cf9807b53018b4701",
+            "soldDateTime": "2017-08-09T07:47:13",
+            "lotID": "1",
+            "lotStatus": "Not sold",
+            "startingPrice": 3000,
+            "saleID": "FYT098",
+            "type": "lot",
+            "createdDateTime": "2017-08-01T11:52:50",
+            "createdBy": {
+                "id": "5875e15c774504bbd60a0268",
+                "defaultPartner": "cars",
+                "email": "test@test.com",
+                "firstName": "Bryan",
+                "inactive": false,
+                "lastLogin": "2016-08-16",
+                "lastName": "Raynoldss",
+                "loginAttempts": 0,
+                "username": "vw_user"
+            },
+            "order": 1
+        },
+        {
+            "id": "5971fb4686da5ce9008b456b",
+            "bid": {
+                "bidder": {
+                    "code": "Mikel Castle"
+                }
+            },
+            "soldDateTime": "2017-07-21T12:00:00",
+            "lotStatus": "Not sold",
+            "startingPrice": 65356,
+            "soldPrice": 10000,
+            "saleID": "JP0987",
+            "type": "lot",
+            "createdDateTime": "2017-08-01T11:03:52",
+            "createdBy": {
+                "id": "5875e15c774504bbd60a0268",
+                "defaultPartner": "cars",
+                "email": "test@test.com",
+                "firstName": "Bryan",
+                "inactive": false,
+                "lastLogin": "2016-08-16",
+                "lastName": "Raynoldss",
+                "loginAttempts": 0,
+                "username": "vw_user"
+            },
+            "order": 1
+        },
+        {
+            "id": "596cb44015887617038b4569",
+            "bid": {
+                "bidder": {
+                    "code": "BCA"
+                }
+            },
+            "buyer": {
+                "franchiseId": "BCA"
+            },
+            "soldDateTime": "2017-07-18T10:07:03",
+            "lotID": "1",
+            "lotStatus": "Sold",
+            "startingPrice": 1000,
+            "soldPrice": 2727,
+            "saleID": "ARS012",
+            "type": "lot",
+            "createdDateTime": "2017-07-17T14:01:10",
+            "createdBy": {
+                "id": "5930445881940a4d88480fbe",
+                "defaultPartner": "cars",
+                "email": "andrei.radu@eminussoftware.com",
+                "firstName": "Andrei",
+                "lastName": "Radu",
+                "username": "andradu"
+            },
+            "order": 1
+        },
+        {
+            "id": "5964a4b8fbf1db9f008b4567",
+            "lotStatus": "Not sold",
+            "startingPrice": 22224,
+            "saleID": "SP1234",
+            "type": "lot",
+            "createdDateTime": "2017-07-11T11:16:41",
+            "createdBy": {
+                "id": "5875e15c774504bbd60a0268",
+                "defaultPartner": "cars",
+                "email": "test@test.com",
+                "firstName": "Bryan",
+                "inactive": false,
+                "lastLogin": "2016-08-16",
+                "lastName": "Raynoldss",
+                "loginAttempts": 0,
+                "username": "vw_user"
+            },
+            "order": 2
+        },
+        {
+            "id": "5964a477fbf1db92008b4568",
+            "lotStatus": "Not sold",
+            "startingPrice": 11154,
+            "saleID": "SP1234",
+            "type": "lot",
+            "createdDateTime": "2017-07-11T11:13:36",
+            "createdBy": {
+                "id": "5875e15c774504bbd60a0268",
+                "defaultPartner": "cars",
+                "email": "test@test.com",
+                "firstName": "Bryan",
+                "inactive": false,
+                "lastLogin": "2016-08-16",
+                "lastName": "Raynoldss",
+                "loginAttempts": 0,
+                "username": "vw_user"
+            },
+            "order": 1
+        },
+        {
+            "id": "592c0323610aa355038b4567",
+            "saleID": "592c0283610aa34c038b457c",
+            "type": "lot"
+        },
+        {
+            "id": "59479808ba558b34048b4567",
+            "lotID": "2",
+            "saleID": "594797f0ba558b35048b4567",
+            "type": "lot"
+        },
+        {
+            "id": "5947d4ccba558ba4048b4567",
+            "lotID": "1",
+            "saleID": "5947d4c3ba558b9c048b4568",
+            "type": "lot"
+        },
+        {
+            "id": "5931640ccaa8eb9d018b4575",
+            "saleID": "59316401caa8eba7018b4567",
+            "type": "lot"
+        },
+        {
+            "id": "593a7c84644140af038b4587",
+            "lotID": "1",
+            "saleID": "593a7be5644140b5038b459c",
+            "type": "lot",
+            "order": 1
+        },
+        {
+            "id": "5943c7f6ba558bc4028b4575",
+            "lotID": "1",
+            "saleID": "5943c7c4ba558bc2028b4567",
+            "type": "lot"
+        }
+    ],
+    "_cursor": {
+        "total": 365,
+        "top": 20,
+        "skip": 0,
+        "totalFiltered": 365,
+        "next": "/api/v1/lots?%24top=20&%24skip=20"
+    }
+}
